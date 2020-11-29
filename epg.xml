@@ -1,893 +1,2165 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="CL FOX">
-    <display-name lang="es">CL FOX</display-name>
-    <url>http://www.buscadorcablevision.com.ar</url>
+  <channel id="CL CANAL 13d">
+    <display-name lang="es">CL CANAL 13</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png" />
+    <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="MX FOX">
-    <display-name lang="es">MX FOX</display-name>
-    <url>http://www.buscadorcablevision.com.ar</url>
+  <channel id="discovery home and health">
+    <display-name lang="es">discovery_home_and_health</display-name>
+    <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20201129000000 -0300" stop="20201129003000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <channel id="history mexico">
+    <display-name lang="es">history mexico</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="1">
+    <display-name lang="es">1</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="2">
+    <display-name lang="es">2</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="3">
+    <display-name lang="es">3</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="4">
+    <display-name lang="es">4</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_en_espanol-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="5">
+    <display-name lang="es">5</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="6">
+    <display-name lang="es">6</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="7">
+    <display-name lang="es">7</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="8">
+    <display-name lang="es">8</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="9">
+    <display-name lang="es">9</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="10">
+    <display-name lang="es">10</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="11">
+    <display-name lang="es">11</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="12">
+    <display-name lang="es">12</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="13">
+    <display-name lang="es">13</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="14">
+    <display-name lang="es">14</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="15">
+    <display-name lang="es">15</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="16">
+    <display-name lang="es">16</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="17">
+    <display-name lang="es">17</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20201129003000 -0600" stop="20201129013000 -0600" channel="CL CANAL 13d">
+    <title lang="es">9-1-1 Lone Star</title>
+  </programme>
+  <programme start="20201129013000 -0600" stop="20201129073000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20201129073000 -0600" stop="20201129080000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20201129080000 -0600" stop="20201129093000 -0600" channel="CL CANAL 13d">
+    <title lang="es">City Tour</title>
+  </programme>
+  <programme start="20201129093000 -0600" stop="20201129100000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Café Social</title>
+  </programme>
+  <programme start="20201129100000 -0600" stop="20201129110000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20201129110000 -0600" stop="20201129130000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Mesa central</title>
+  </programme>
+  <programme start="20201129130000 -0600" stop="20201129150000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20201129150000 -0600" stop="20201129171500 -0600" channel="CL CANAL 13d">
+    <title lang="es">Volando alto</title>
   </programme>
-  <programme start="20201129003000 -0300" stop="20201129010000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129171500 -0600" stop="20201129193000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Contra viento y marea</title>
   </programme>
-  <programme start="20201129010000 -0300" stop="20201129033000 -0300" channel="CL FOX">
-    <title lang="es">La verdad duele</title>
+  <programme start="20201129193000 -0600" stop="20201129210000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Lugares que hablan</title>
   </programme>
-  <programme start="20201129033000 -0300" stop="20201129060000 -0300" channel="CL FOX">
-    <title lang="es">El transportador 2</title>
+  <programme start="20201129210000 -0600" stop="20201129223000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Teletrece</title>
   </programme>
-  <programme start="20201129060000 -0300" stop="20201129063000 -0300" channel="CL FOX">
-    <title lang="es">Will and Grace</title>
+  <programme start="20201129223000 -0600" stop="20201129223500 -0600" channel="CL CANAL 13d">
+    <title lang="es">El tiempo</title>
   </programme>
-  <programme start="20201129063000 -0300" stop="20201129070000 -0300" channel="CL FOX">
-    <title lang="es">Will and Grace</title>
+  <programme start="20201129223500 -0600" stop="20201130003000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Contra viento y marea</title>
   </programme>
-  <programme start="20201129070000 -0300" stop="20201129073000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201130003000 -0600" stop="20201130020000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Soltera otra vez</title>
   </programme>
-  <programme start="20201129073000 -0300" stop="20201129080000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201130020000 -0600" stop="20201130070000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Fuera del aire</title>
   </programme>
-  <programme start="20201129080000 -0300" stop="20201129083000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201130070000 -0600" stop="20201130083000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Teletrece</title>
   </programme>
-  <programme start="20201129083000 -0300" stop="20201129090000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201130083000 -0600" stop="20201130130000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Bienvenidos, Cada Uno Cuenta</title>
   </programme>
-  <programme start="20201129090000 -0300" stop="20201129100000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201130130000 -0600" stop="20201130143000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Teletrece</title>
   </programme>
-  <programme start="20201129100000 -0300" stop="20201129115000 -0300" channel="CL FOX">
-    <title lang="es">Princesa por accidente</title>
+  <programme start="20201130143000 -0600" stop="20201130143500 -0600" channel="CL CANAL 13d">
+    <title lang="es">El tiempo</title>
   </programme>
-  <programme start="20201129115000 -0300" stop="20201129134500 -0300" channel="CL FOX">
-    <title lang="es">Votos de amor</title>
+  <programme start="20201130143500 -0600" stop="20201130155500 -0600" channel="CL CANAL 13d">
+    <title lang="es">Brujas</title>
   </programme>
-  <programme start="20201129134500 -0300" stop="20201129160000 -0300" channel="CL FOX">
-    <title lang="es">El sorprendente Hombre Araña</title>
+  <programme start="20201130155500 -0600" stop="20201130164000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Yeter</title>
   </programme>
-  <programme start="20201129160000 -0300" stop="20201129174200 -0300" channel="CL FOX">
-    <title lang="es">Hancock</title>
+  <programme start="20201130164000 -0600" stop="20201130182000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Caso Cerrado</title>
   </programme>
-  <programme start="20201129174200 -0300" stop="20201129200000 -0300" channel="CL FOX">
-    <title lang="es">Baywatch: guardianes de la bahía</title>
+  <programme start="20201130182000 -0600" stop="20201130200000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Aquí somos todos</title>
   </programme>
-  <programme start="20201129200000 -0300" stop="20201129203000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201130200000 -0600" stop="20201130210000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Los 80</title>
   </programme>
-  <programme start="20201129203000 -0300" stop="20201129210000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201130223500 -0600" stop="20201201000000 -0600" channel="CL CANAL 13d">
+    <title lang="es">A Esta Hora se Improvisa</title>
   </programme>
-  <programme start="20201129210000 -0300" stop="20201129213000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201201000000 -0600" stop="20201201010000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Sigamos de largo</title>
   </programme>
-  <programme start="20201129213000 -0300" stop="20201129220000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201201010000 -0600" stop="20201201020000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Pacto de sangre</title>
   </programme>
-  <programme start="20201129220000 -0300" stop="20201130000000 -0300" channel="CL FOX">
-    <title lang="es">Feliz día de tu muerte</title>
+  <programme start="20201201020000 -0600" stop="20201201030000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Bones</title>
   </programme>
-  <programme start="20201130000000 -0300" stop="20201130021500 -0300" channel="CL FOX">
-    <title lang="es">Viudas</title>
+  <programme start="20201201030000 -0600" stop="20201201070000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Fuera del aire</title>
   </programme>
-  <programme start="20201130021500 -0300" stop="20201130043000 -0300" channel="CL FOX">
-    <title lang="es">Cincuenta sombras de Grey</title>
+  <programme start="20201201070000 -0600" stop="20201201083000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Teletrece</title>
   </programme>
-  <programme start="20201130043000 -0300" stop="20201130063500 -0300" channel="CL FOX">
-    <title lang="es">Duplicidad</title>
+  <programme start="20201201083000 -0600" stop="20201201130000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Bienvenidos, Cada Uno Cuenta</title>
   </programme>
-  <programme start="20201130063500 -0300" stop="20201130070000 -0300" channel="CL FOX">
-    <title lang="es">Will and Grace</title>
+  <programme start="20201201130000 -0600" stop="20201201143000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Teletrece</title>
   </programme>
-  <programme start="20201130070000 -0300" stop="20201130073000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201201143000 -0600" stop="20201201143500 -0600" channel="CL CANAL 13d">
+    <title lang="es">El tiempo</title>
   </programme>
-  <programme start="20201130073000 -0300" stop="20201130080000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201201143500 -0600" stop="20201201153500 -0600" channel="CL CANAL 13d">
+    <title lang="es">Brujas</title>
   </programme>
-  <programme start="20201130080000 -0300" stop="20201130100000 -0300" channel="CL FOX">
-    <title lang="es">Son como niños</title>
+  <programme start="20201201153500 -0600" stop="20201201162000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Yeter</title>
   </programme>
-  <programme start="20201130100000 -0300" stop="20201130114500 -0300" channel="CL FOX">
-    <title lang="es">Hombres de negro</title>
+  <programme start="20201201162000 -0600" stop="20201201182000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Caso Cerrado</title>
   </programme>
-  <programme start="20201130114500 -0300" stop="20201130122000 -0300" channel="CL FOX">
-    <title lang="es">Futurama</title>
+  <programme start="20201201182000 -0600" stop="20201201200000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Aquí somos todos</title>
   </programme>
-  <programme start="20201130122000 -0300" stop="20201130125000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201201200000 -0600" stop="20201201210000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Los 80</title>
   </programme>
-  <programme start="20201130125000 -0300" stop="20201130133000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201201210000 -0600" stop="20201201223000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Teletrece</title>
   </programme>
-  <programme start="20201130133000 -0300" stop="20201130154500 -0300" channel="CL FOX">
-    <title lang="es">Jason Bourne</title>
+  <programme start="20201201223000 -0600" stop="20201201223500 -0600" channel="CL CANAL 13d">
+    <title lang="es">El tiempo</title>
   </programme>
-  <programme start="20201130154500 -0300" stop="20201130175700 -0300" channel="CL FOX">
-    <title lang="es">Hombre en llamas</title>
+  <programme start="20201201223500 -0600" stop="20201201233000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Soltera otra vez</title>
   </programme>
-  <programme start="20201130175700 -0300" stop="20201130200000 -0300" channel="CL FOX">
-    <title lang="es">Olé, el viaje de Ferdinand</title>
+  <programme start="20201201233000 -0600" stop="20201202003000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Sigamos de largo</title>
   </programme>
-  <programme start="20201130200000 -0300" stop="20201130203000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201202003000 -0600" stop="20201202011500 -0600" channel="CL CANAL 13d">
+    <title lang="es">Pacto de sangre</title>
   </programme>
-  <programme start="20201130203000 -0300" stop="20201130210000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201202011500 -0600" stop="20201202021500 -0600" channel="CL CANAL 13d">
+    <title lang="es">Bones</title>
   </programme>
-  <programme start="20201130210000 -0300" stop="20201130213000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201202021500 -0600" stop="20201202070000 -0600" channel="CL CANAL 13d">
+    <title lang="es">Fuera del aire</title>
   </programme>
-  <programme start="20201130213000 -0300" stop="20201130220000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129002500 -0600" stop="20201129005000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201130220000 -0300" stop="20201201000000 -0300" channel="CL FOX">
-    <title lang="es">Deadpool 2</title>
+  <programme start="20201129005000 -0600" stop="20201129025000 -0600" channel="history mexico">
+    <title lang="es">El bueno, el malo y el Diego</title>
   </programme>
-  <programme start="20201201000000 -0300" stop="20201201001500 -0300" channel="CL FOX">
-    <title lang="es">Deadpool 2</title>
+  <programme start="20201129025000 -0600" stop="20201129034000 -0600" channel="history mexico">
+    <title lang="es">El socio</title>
   </programme>
-  <programme start="20201201001500 -0300" stop="20201201004500 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129034000 -0600" stop="20201129044000 -0600" channel="history mexico">
+    <title lang="es">El costo de la guerra</title>
   </programme>
-  <programme start="20201201004500 -0300" stop="20201201013000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129044000 -0600" stop="20201129054000 -0600" channel="history mexico">
+    <title lang="es">El costo de la guerra</title>
   </programme>
-  <programme start="20201201013000 -0300" stop="20201201033000 -0300" channel="CL FOX">
-    <title lang="es">Falsa evidencia</title>
+  <programme start="20201129054000 -0600" stop="20201129060500 -0600" channel="history mexico">
+    <title lang="es">¿Quién da má$? Nueva York</title>
   </programme>
-  <programme start="20201201033000 -0300" stop="20201201060000 -0300" channel="CL FOX">
-    <title lang="es">Jumper</title>
+  <programme start="20201129060500 -0600" stop="20201129063000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201201060000 -0300" stop="20201201063000 -0300" channel="CL FOX">
-    <title lang="es">Will and Grace</title>
+  <programme start="20201129063000 -0600" stop="20201129070000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201201063000 -0300" stop="20201201070000 -0300" channel="CL FOX">
-    <title lang="es">Will and Grace</title>
+  <programme start="20201129070000 -0600" stop="20201129080000 -0600" channel="history mexico">
+    <title lang="es">El costo de la guerra</title>
   </programme>
-  <programme start="20201201070000 -0300" stop="20201201073000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201129080000 -0600" stop="20201129090000 -0600" channel="history mexico">
+    <title lang="es">El costo de la guerra</title>
   </programme>
-  <programme start="20201201073000 -0300" stop="20201201080000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201129090000 -0600" stop="20201129095000 -0600" channel="history mexico">
+    <title lang="es">El socio</title>
   </programme>
-  <programme start="20201201080000 -0300" stop="20201201083000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201129095000 -0600" stop="20201129104000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201201083000 -0300" stop="20201201090000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201129104000 -0600" stop="20201129110500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201201090000 -0300" stop="20201201100000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201129110500 -0600" stop="20201129113000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201201100000 -0300" stop="20201201120000 -0300" channel="CL FOX">
-    <title lang="es">Reyes de las olas</title>
+  <programme start="20201129113000 -0600" stop="20201129115500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201201120000 -0300" stop="20201201123000 -0300" channel="CL FOX">
-    <title lang="es">Life in Pieces</title>
+  <programme start="20201129115500 -0600" stop="20201129122500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201201123000 -0300" stop="20201201133500 -0300" channel="CL FOX">
-    <title lang="es">Life in Pieces</title>
+  <programme start="20201129122500 -0600" stop="20201129125000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201201133500 -0300" stop="20201201140500 -0300" channel="CL FOX">
-    <title lang="es">Futurama</title>
+  <programme start="20201129125000 -0600" stop="20201129131500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201201140500 -0300" stop="20201201143000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129131500 -0600" stop="20201129140500 -0600" channel="history mexico">
+    <title lang="es">El socio</title>
   </programme>
-  <programme start="20201201143000 -0300" stop="20201201150000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129140500 -0600" stop="20201129150000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201201150000 -0300" stop="20201201153000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129150000 -0600" stop="20201129152500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201201153000 -0300" stop="20201201160000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129152500 -0600" stop="20201129155000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201201160000 -0300" stop="20201201163000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129155000 -0600" stop="20201129162000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201201163000 -0300" stop="20201201170000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129162000 -0600" stop="20201129165000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201201170000 -0300" stop="20201201173000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129165000 -0600" stop="20201129171500 -0600" channel="history mexico">
+    <title lang="es">¿Quién da má$? Nueva York</title>
   </programme>
-  <programme start="20201201173000 -0300" stop="20201201180000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129171500 -0600" stop="20201129174500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201201180000 -0300" stop="20201201183000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129174500 -0600" stop="20201129181000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201201183000 -0300" stop="20201201190000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129181000 -0600" stop="20201129190000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201201190000 -0300" stop="20201201193000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129190000 -0600" stop="20201129192500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201201193000 -0300" stop="20201201200000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129192500 -0600" stop="20201129195000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201201200000 -0300" stop="20201201203000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129195000 -0600" stop="20201129201500 -0600" channel="history mexico">
+    <title lang="es">Unboxing extremo</title>
   </programme>
-  <programme start="20201201203000 -0300" stop="20201201210000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129201500 -0600" stop="20201129204000 -0600" channel="history mexico">
+    <title lang="es">Unboxing extremo</title>
   </programme>
-  <programme start="20201201210000 -0300" stop="20201201213000 -0300" channel="CL FOX">
-    <title lang="es">Duncanville</title>
+  <programme start="20201129204000 -0600" stop="20201129213000 -0600" channel="history mexico">
+    <title lang="es">Lo mejor cazadores de tesoros</title>
   </programme>
-  <programme start="20201201213000 -0300" stop="20201201220000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129213000 -0600" stop="20201129222000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201201220000 -0300" stop="20201202000000 -0300" channel="CL FOX">
-    <title lang="es">El secreto de sus ojos</title>
+  <programme start="20201129222000 -0600" stop="20201129224500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201202000000 -0300" stop="20201202002400 -0300" channel="CL FOX">
-    <title lang="es">El secreto de sus ojos</title>
+  <programme start="20201129224500 -0600" stop="20201129231000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201202002400 -0300" stop="20201202005500 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129231000 -0600" stop="20201130000000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201202005500 -0300" stop="20201202012500 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201130000000 -0600" stop="20201130002500 -0600" channel="history mexico">
+    <title lang="es">20 años de History Clásicos</title>
   </programme>
-  <programme start="20201202012500 -0300" stop="20201202030300 -0300" channel="CL FOX">
-    <title lang="es">Séptimo</title>
+  <programme start="20201130002500 -0600" stop="20201130005000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201202030300 -0300" stop="20201202060000 -0300" channel="CL FOX">
-    <title lang="es">Los padecientes</title>
+  <programme start="20201130005000 -0600" stop="20201130011500 -0600" channel="history mexico">
+    <title lang="es">Unboxing extremo</title>
   </programme>
-  <programme start="20201202060000 -0300" stop="20201202063000 -0300" channel="CL FOX">
-    <title lang="es">Will and Grace</title>
+  <programme start="20201130011500 -0600" stop="20201130014000 -0600" channel="history mexico">
+    <title lang="es">Unboxing extremo</title>
   </programme>
-  <programme start="20201202063000 -0300" stop="20201202070000 -0300" channel="CL FOX">
-    <title lang="es">Will and Grace</title>
+  <programme start="20201130014000 -0600" stop="20201130023000 -0600" channel="history mexico">
+    <title lang="es">Cazadores de tesoros</title>
   </programme>
-  <programme start="20201202070000 -0300" stop="20201202073000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201130023000 -0600" stop="20201130032500 -0600" channel="history mexico">
+    <title lang="es">Cazadores de tesoros</title>
   </programme>
-  <programme start="20201202073000 -0300" stop="20201202080000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201130032500 -0600" stop="20201130041500 -0600" channel="history mexico">
+    <title lang="es">Lo mejor cazadores de tesoros</title>
   </programme>
-  <programme start="20201202080000 -0300" stop="20201202083000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201130041500 -0600" stop="20201130050500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201202083000 -0300" stop="20201202090000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201130050500 -0600" stop="20201130053000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201202090000 -0300" stop="20201202100000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201130053000 -0600" stop="20201130055500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201202100000 -0300" stop="20201202120000 -0300" channel="CL FOX">
-    <title lang="es">Condorito: la película</title>
+  <programme start="20201130055500 -0600" stop="20201130064000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201202120000 -0300" stop="20201202123000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201130064000 -0600" stop="20201130073000 -0600" channel="history mexico">
+    <title lang="es">Cazadores de tesoros</title>
   </programme>
-  <programme start="20201202123000 -0300" stop="20201202130000 -0300" channel="CL FOX">
-    <title lang="es">Life in Pieces</title>
+  <programme start="20201130073000 -0600" stop="20201130081500 -0600" channel="history mexico">
+    <title lang="es">Cazadores de tesoros</title>
   </programme>
-  <programme start="20201202130000 -0300" stop="20201202133000 -0300" channel="CL FOX">
-    <title lang="es">Life in Pieces</title>
+  <programme start="20201130081500 -0600" stop="20201130090000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201202133000 -0300" stop="20201202154500 -0300" channel="CL FOX">
-    <title lang="es">El amor menos pensado</title>
+  <programme start="20201130090000 -0600" stop="20201130092200 -0600" channel="history mexico">
+    <title lang="es">20 años de History Clásicos</title>
   </programme>
-  <programme start="20201202154500 -0300" stop="20201202174500 -0300" channel="CL FOX">
-    <title lang="es">Re-loca</title>
+  <programme start="20201130092200 -0600" stop="20201130094500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201202174500 -0300" stop="20201202193500 -0300" channel="CL FOX">
-    <title lang="es">Cómo entrenar a tu dragón</title>
+  <programme start="20201130094500 -0600" stop="20201130101000 -0600" channel="history mexico">
+    <title lang="es">Unboxing extremo</title>
   </programme>
-  <programme start="20201202193500 -0300" stop="20201202200000 -0300" channel="CL FOX">
-    <title lang="es">Futurama</title>
+  <programme start="20201130101000 -0600" stop="20201130103500 -0600" channel="history mexico">
+    <title lang="es">Unboxing extremo</title>
   </programme>
-  <programme start="20201202200000 -0300" stop="20201202203000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201130103500 -0600" stop="20201130112500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201202203000 -0300" stop="20201202210000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201130112500 -0600" stop="20201130121500 -0600" channel="history mexico">
+    <title lang="es">Lo mejor cazadores de tesoros</title>
   </programme>
-  <programme start="20201202210000 -0300" stop="20201202213000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201130121500 -0600" stop="20201130130500 -0600" channel="history mexico">
+    <title lang="es">Cazadores de tesoros</title>
   </programme>
-  <programme start="20201202213000 -0300" stop="20201202220000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201130130500 -0600" stop="20201130133000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201202220000 -0300" stop="20201203000000 -0300" channel="CL FOX">
-    <title lang="es">Bohemian Rhapsody: La historia de Freddie Mercury</title>
+  <programme start="20201130133000 -0600" stop="20201130135500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201203000000 -0300" stop="20201203003800 -0300" channel="CL FOX">
-    <title lang="es">Bohemian Rhapsody: La historia de Freddie Mercury</title>
+  <programme start="20201130135500 -0600" stop="20201130142500 -0600" channel="history mexico">
+    <title lang="es">20 años de History Clásicos</title>
   </programme>
-  <programme start="20201203003800 -0300" stop="20201203010800 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201130142500 -0600" stop="20201130145000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201203010800 -0300" stop="20201203013800 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201130145000 -0600" stop="20201130151500 -0600" channel="history mexico">
+    <title lang="es">Unboxing extremo</title>
   </programme>
-  <programme start="20201203013800 -0300" stop="20201203032100 -0300" channel="CL FOX">
-    <title lang="es">Actos de violencia</title>
+  <programme start="20201130151500 -0600" stop="20201130154000 -0600" channel="history mexico">
+    <title lang="es">Unboxing extremo</title>
   </programme>
-  <programme start="20201203032100 -0300" stop="20201203060000 -0300" channel="CL FOX">
-    <title lang="es">El transportador 2</title>
+  <programme start="20201130154000 -0600" stop="20201130163000 -0600" channel="history mexico">
+    <title lang="es">Cazadores de tesoros</title>
   </programme>
-  <programme start="20201203060000 -0300" stop="20201203063000 -0300" channel="CL FOX">
-    <title lang="es">Will and Grace</title>
+  <programme start="20201130163000 -0600" stop="20201130165500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201203063000 -0300" stop="20201203070000 -0300" channel="CL FOX">
-    <title lang="es">Will and Grace</title>
+  <programme start="20201130165500 -0600" stop="20201130172000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201203070000 -0300" stop="20201203073000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201130172000 -0600" stop="20201130181000 -0600" channel="history mexico">
+    <title lang="es">Lo mejor cazadores de tesoros</title>
   </programme>
-  <programme start="20201203073000 -0300" stop="20201203080000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201130181000 -0600" stop="20201130190000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201203080000 -0300" stop="20201203083000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201130190000 -0600" stop="20201130192500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201203083000 -0300" stop="20201203090000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201130192500 -0600" stop="20201130195000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201203090000 -0300" stop="20201203100000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201130195000 -0600" stop="20201130204000 -0600" channel="history mexico">
+    <title lang="es">No Identificado</title>
   </programme>
-  <programme start="20201203100000 -0300" stop="20201203120000 -0300" channel="CL FOX">
-    <title lang="es">Los Aliens se comieron mi tarea</title>
+  <programme start="20201130204000 -0600" stop="20201130213000 -0600" channel="history mexico">
+    <title lang="es">Inexplicable con William S</title>
   </programme>
-  <programme start="20201203120000 -0300" stop="20201203123000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201130213000 -0600" stop="20201130222000 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201203123000 -0300" stop="20201203130000 -0300" channel="CL FOX">
-    <title lang="es">Bless This Mess</title>
+  <programme start="20201130222000 -0600" stop="20201130231000 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201203130000 -0300" stop="20201203133000 -0300" channel="CL FOX">
-    <title lang="es">Life in Pieces</title>
+  <programme start="20201130231000 -0600" stop="20201201000000 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201203133000 -0300" stop="20201203140000 -0300" channel="CL FOX">
-    <title lang="es">Life in Pieces</title>
+  <programme start="20201201000000 -0600" stop="20201201005000 -0600" channel="history mexico">
+    <title lang="es">No Identificado</title>
   </programme>
-  <programme start="20201203140000 -0300" stop="20201203165000 -0300" channel="CL FOX">
-    <title lang="es">La verdad duele</title>
+  <programme start="20201201005000 -0600" stop="20201201011500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201203165000 -0300" stop="20201203193500 -0300" channel="CL FOX">
-    <title lang="es">Logan</title>
+  <programme start="20201201011500 -0600" stop="20201201014000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201203193500 -0300" stop="20201203200000 -0300" channel="CL FOX">
-    <title lang="es">Futurama</title>
+  <programme start="20201201014000 -0600" stop="20201201023000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201203200000 -0300" stop="20201203203000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201201023000 -0600" stop="20201201030500 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201203203000 -0300" stop="20201203210000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201201030500 -0600" stop="20201201032500 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201203210000 -0300" stop="20201203213000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201201032500 -0600" stop="20201201035500 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201203213000 -0300" stop="20201203220000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201201035500 -0600" stop="20201201042000 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201203220000 -0300" stop="20201204000000 -0300" channel="CL FOX">
-    <title lang="es">Miedo profundo</title>
+  <programme start="20201201042000 -0600" stop="20201201045000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201204000000 -0300" stop="20201204003000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201201045000 -0600" stop="20201201051500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201204003000 -0300" stop="20201204010000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201201051500 -0600" stop="20201201054000 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201204010000 -0300" stop="20201204023000 -0300" channel="CL FOX">
-    <title lang="es">Amor y disfunción</title>
+  <programme start="20201201054000 -0600" stop="20201201061000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201204023000 -0300" stop="20201204060000 -0300" channel="CL FOX">
-    <title lang="es">Dúplex</title>
+  <programme start="20201201061000 -0600" stop="20201201070500 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201204060000 -0300" stop="20201204063000 -0300" channel="CL FOX">
-    <title lang="es">Will and Grace</title>
+  <programme start="20201201070500 -0600" stop="20201201080500 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201204063000 -0300" stop="20201204070000 -0300" channel="CL FOX">
-    <title lang="es">Will and Grace</title>
+  <programme start="20201201080500 -0600" stop="20201201090000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201204070000 -0300" stop="20201204073000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201201090000 -0600" stop="20201201094500 -0600" channel="history mexico">
+    <title lang="es">Inexplicable con William S</title>
   </programme>
-  <programme start="20201204073000 -0300" stop="20201204080000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201201094500 -0600" stop="20201201103500 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201204080000 -0300" stop="20201204083000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201201103500 -0600" stop="20201201113000 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201204083000 -0300" stop="20201204090000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201201113000 -0600" stop="20201201122000 -0600" channel="history mexico">
+    <title lang="es">No Identificado</title>
   </programme>
-  <programme start="20201204090000 -0300" stop="20201204100000 -0300" channel="CL FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201201122000 -0600" stop="20201201131000 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201204100000 -0300" stop="20201204123000 -0300" channel="CL FOX">
-    <title lang="es">Sonido de la Navidad</title>
+  <programme start="20201201131000 -0600" stop="20201201140000 -0600" channel="history mexico">
+    <title lang="es">Inexplicable con William S</title>
   </programme>
-  <programme start="20201204123000 -0300" stop="20201204130000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201201140000 -0600" stop="20201201145500 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201204130000 -0300" stop="20201204133000 -0300" channel="CL FOX">
-    <title lang="es">Life in Pieces</title>
+  <programme start="20201201145500 -0600" stop="20201201152500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201204133000 -0300" stop="20201204140000 -0300" channel="CL FOX">
-    <title lang="es">Life in Pieces</title>
+  <programme start="20201201152500 -0600" stop="20201201161500 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201204140000 -0300" stop="20201204160000 -0300" channel="CL FOX">
-    <title lang="es">Mentes poderosas</title>
+  <programme start="20201201161500 -0600" stop="20201201171000 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201204160000 -0300" stop="20201204180000 -0300" channel="CL FOX">
-    <title lang="es">Megamente</title>
+  <programme start="20201201171000 -0600" stop="20201201180000 -0600" channel="history mexico">
+    <title lang="es">Inexplicable con William S</title>
   </programme>
-  <programme start="20201204180000 -0300" stop="20201204193500 -0300" channel="CL FOX">
-    <title lang="es">Shrek tercero</title>
+  <programme start="20201201180000 -0600" stop="20201201185500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201204193500 -0300" stop="20201204200000 -0300" channel="CL FOX">
-    <title lang="es">Futurama</title>
+  <programme start="20201201185500 -0600" stop="20201201195000 -0600" channel="history mexico">
+    <title lang="es">No Identificado</title>
   </programme>
-  <programme start="20201204200000 -0300" stop="20201204203000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201201195000 -0600" stop="20201201201500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201204203000 -0300" stop="20201204210000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201201201500 -0600" stop="20201201204000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201204210000 -0300" stop="20201204213000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201201204000 -0600" stop="20201201213000 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201204213000 -0300" stop="20201204220000 -0300" channel="CL FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201201213000 -0600" stop="20201201222000 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201204220000 -0300" stop="20201205000000 -0300" channel="CL FOX">
-    <title lang="es">Búsqueda implacable 3</title>
+  <programme start="20201201222000 -0600" stop="20201201224500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201129000000 -0300" stop="20201129003000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201201224500 -0600" stop="20201201231000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201129003000 -0300" stop="20201129010000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201201231000 -0600" stop="20201202000000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201129010000 -0300" stop="20201129033000 -0300" channel="MX FOX">
-    <title lang="es">La verdad duele</title>
+  <programme start="20201202000000 -0600" stop="20201202005000 -0600" channel="history mexico">
+    <title lang="es">Cazadores de tesoros</title>
   </programme>
-  <programme start="20201129033000 -0300" stop="20201129060000 -0300" channel="MX FOX">
-    <title lang="es">El transportador 2</title>
+  <programme start="20201202005000 -0600" stop="20201202011500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201129060000 -0300" stop="20201129063000 -0300" channel="MX FOX">
-    <title lang="es">Will and Grace</title>
+  <programme start="20201202011500 -0600" stop="20201202014000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201129063000 -0300" stop="20201129070000 -0300" channel="MX FOX">
-    <title lang="es">Will and Grace</title>
+  <programme start="20201202014000 -0600" stop="20201202020500 -0600" channel="history mexico">
+    <title lang="es">¿Quién da má$? Nueva York</title>
   </programme>
-  <programme start="20201129070000 -0300" stop="20201129073000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201202020500 -0600" stop="20201202025500 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201129073000 -0300" stop="20201129080000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201202025500 -0600" stop="20201202034500 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego Especial</title>
   </programme>
-  <programme start="20201129080000 -0300" stop="20201129083000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201202034500 -0600" stop="20201202043500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201129083000 -0300" stop="20201129090000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201202043500 -0600" stop="20201202052500 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201129090000 -0300" stop="20201129100000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201202052500 -0600" stop="20201202055000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201129100000 -0300" stop="20201129115000 -0300" channel="MX FOX">
-    <title lang="es">Princesa por accidente</title>
+  <programme start="20201202055000 -0600" stop="20201202061500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201129115000 -0300" stop="20201129134500 -0300" channel="MX FOX">
-    <title lang="es">Votos de amor</title>
+  <programme start="20201202061500 -0600" stop="20201202064000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201129134500 -0300" stop="20201129160000 -0300" channel="MX FOX">
-    <title lang="es">El sorprendente Hombre Araña</title>
+  <programme start="20201202064000 -0600" stop="20201202070500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201129160000 -0300" stop="20201129174200 -0300" channel="MX FOX">
-    <title lang="es">Hancock</title>
+  <programme start="20201202070500 -0600" stop="20201202080500 -0600" channel="history mexico">
+    <title lang="es">Cazadores de tesoros</title>
   </programme>
-  <programme start="20201129174200 -0300" stop="20201129200000 -0300" channel="MX FOX">
-    <title lang="es">Baywatch: guardianes de la bahía</title>
+  <programme start="20201202080500 -0600" stop="20201202090000 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201129200000 -0300" stop="20201129203000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201202090000 -0600" stop="20201202092200 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201129203000 -0300" stop="20201129210000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201202092200 -0600" stop="20201202094500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201129210000 -0300" stop="20201129213000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201202094500 -0600" stop="20201202103500 -0600" channel="history mexico">
+    <title lang="es">Cazadores de tesoros</title>
   </programme>
-  <programme start="20201129213000 -0300" stop="20201129220000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201202103500 -0600" stop="20201202112500 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego Especial</title>
   </programme>
-  <programme start="20201129220000 -0300" stop="20201130000000 -0300" channel="MX FOX">
-    <title lang="es">Feliz día de tu muerte</title>
+  <programme start="20201202112500 -0600" stop="20201202121500 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201130000000 -0300" stop="20201130021500 -0300" channel="MX FOX">
-    <title lang="es">Viudas</title>
+  <programme start="20201202121500 -0600" stop="20201202124000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201130021500 -0300" stop="20201130043000 -0300" channel="MX FOX">
-    <title lang="es">Cincuenta sombras de Grey</title>
+  <programme start="20201202124000 -0600" stop="20201202130500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201130043000 -0300" stop="20201130063500 -0300" channel="MX FOX">
-    <title lang="es">Duplicidad</title>
+  <programme start="20201202130500 -0600" stop="20201202135500 -0600" channel="history mexico">
+    <title lang="es">Cazadores de tesoros</title>
   </programme>
-  <programme start="20201130063500 -0300" stop="20201130070000 -0300" channel="MX FOX">
-    <title lang="es">Will and Grace</title>
+  <programme start="20201202135500 -0600" stop="20201202142500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201130070000 -0300" stop="20201130073000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201202142500 -0600" stop="20201202145000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201130073000 -0300" stop="20201130080000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201202145000 -0600" stop="20201202152000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201130080000 -0300" stop="20201130100000 -0300" channel="MX FOX">
-    <title lang="es">Son como niños</title>
+  <programme start="20201202152000 -0600" stop="20201202161000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201130100000 -0300" stop="20201130114500 -0300" channel="MX FOX">
-    <title lang="es">Hombres de negro</title>
+  <programme start="20201202161000 -0600" stop="20201202170500 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego Especial</title>
   </programme>
-  <programme start="20201130114500 -0300" stop="20201130122000 -0300" channel="MX FOX">
-    <title lang="es">Futurama</title>
+  <programme start="20201202170500 -0600" stop="20201202180000 -0600" channel="history mexico">
+    <title lang="es">Cazadores de tesoros</title>
   </programme>
-  <programme start="20201130122000 -0300" stop="20201130125000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201202180000 -0600" stop="20201202185000 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201130125000 -0300" stop="20201130133000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201202185000 -0600" stop="20201202192000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201130133000 -0300" stop="20201130154500 -0300" channel="MX FOX">
-    <title lang="es">Jason Bourne</title>
+  <programme start="20201202192000 -0600" stop="20201202194500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201130154500 -0300" stop="20201130175700 -0300" channel="MX FOX">
-    <title lang="es">Hombre en llamas</title>
+  <programme start="20201202194500 -0600" stop="20201202201500 -0600" channel="history mexico">
+    <title lang="es">Lo mejor precio de la historia</title>
   </programme>
-  <programme start="20201130175700 -0300" stop="20201130200000 -0300" channel="MX FOX">
-    <title lang="es">Olé, el viaje de Ferdinand</title>
+  <programme start="20201202201500 -0600" stop="20201202204000 -0600" channel="history mexico">
+    <title lang="es">¿Quién Da Má$</title>
   </programme>
-  <programme start="20201130200000 -0300" stop="20201130203000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201202204000 -0600" stop="20201202213000 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201130203000 -0300" stop="20201130210000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201202213000 -0600" stop="20201202222000 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201130210000 -0300" stop="20201130213000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201202222000 -0600" stop="20201202231000 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201130213000 -0300" stop="20201130220000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201202231000 -0600" stop="20201203005000 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201130220000 -0300" stop="20201201000000 -0300" channel="MX FOX">
-    <title lang="es">Deadpool 2</title>
+  <programme start="20201203005000 -0600" stop="20201203011500 -0600" channel="history mexico">
+    <title lang="es">Lo mejor precio de la historia</title>
   </programme>
-  <programme start="20201201000000 -0300" stop="20201201001500 -0300" channel="MX FOX">
-    <title lang="es">Deadpool 2</title>
+  <programme start="20201203011500 -0600" stop="20201203014000 -0600" channel="history mexico">
+    <title lang="es">Lo mejor precio de la historia</title>
   </programme>
-  <programme start="20201201001500 -0300" stop="20201201004500 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201203014000 -0600" stop="20201203020500 -0600" channel="history mexico">
+    <title lang="es">¿Quién Da Má$</title>
   </programme>
-  <programme start="20201201004500 -0300" stop="20201201013000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201203020500 -0600" stop="20201203025500 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201201013000 -0300" stop="20201201033000 -0300" channel="MX FOX">
-    <title lang="es">Falsa evidencia</title>
+  <programme start="20201203025500 -0600" stop="20201203034500 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201201033000 -0300" stop="20201201060000 -0300" channel="MX FOX">
-    <title lang="es">Jumper</title>
+  <programme start="20201203034500 -0600" stop="20201203052500 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201201060000 -0300" stop="20201201063000 -0300" channel="MX FOX">
-    <title lang="es">Will and Grace</title>
+  <programme start="20201203052500 -0600" stop="20201203062000 -0600" channel="history mexico">
+    <title lang="es">Cazadores de tesoros</title>
   </programme>
-  <programme start="20201201063000 -0300" stop="20201201070000 -0300" channel="MX FOX">
-    <title lang="es">Will and Grace</title>
+  <programme start="20201203062000 -0600" stop="20201203071500 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201201070000 -0300" stop="20201201073000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201203071500 -0600" stop="20201203074500 -0600" channel="history mexico">
+    <title lang="es">¿Quién Da Má$</title>
   </programme>
-  <programme start="20201201073000 -0300" stop="20201201080000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201203074500 -0600" stop="20201203081000 -0600" channel="history mexico">
+    <title lang="es">Lo mejor precio de la historia</title>
   </programme>
-  <programme start="20201201080000 -0300" stop="20201201083000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201203081000 -0600" stop="20201203090000 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201201083000 -0300" stop="20201201090000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201203090000 -0600" stop="20201203092500 -0600" channel="history mexico">
+    <title lang="es">Lo mejor precio de la historia</title>
   </programme>
-  <programme start="20201201090000 -0300" stop="20201201100000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201203092500 -0600" stop="20201203095000 -0600" channel="history mexico">
+    <title lang="es">Lo mejor precio de la historia</title>
   </programme>
-  <programme start="20201201100000 -0300" stop="20201201120000 -0300" channel="MX FOX">
-    <title lang="es">Reyes de las olas</title>
+  <programme start="20201203095000 -0600" stop="20201203103500 -0600" channel="history mexico">
+    <title lang="es">Lo mejor cazadores de tesoros</title>
   </programme>
-  <programme start="20201201120000 -0300" stop="20201201123000 -0300" channel="MX FOX">
-    <title lang="es">Life in Pieces</title>
+  <programme start="20201203103500 -0600" stop="20201203112500 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201201123000 -0300" stop="20201201133500 -0300" channel="MX FOX">
-    <title lang="es">Life in Pieces</title>
+  <programme start="20201203112500 -0600" stop="20201203122000 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201201133500 -0300" stop="20201201140500 -0300" channel="MX FOX">
-    <title lang="es">Futurama</title>
+  <programme start="20201203122000 -0600" stop="20201203140000 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201201140500 -0300" stop="20201201143000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201203140000 -0600" stop="20201203145500 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201201143000 -0300" stop="20201201150000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201203145500 -0600" stop="20201203152500 -0600" channel="history mexico">
+    <title lang="es">Lo mejor precio de la historia</title>
   </programme>
-  <programme start="20201201150000 -0300" stop="20201201153000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201203152500 -0600" stop="20201203162000 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201201153000 -0300" stop="20201201160000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201203162000 -0600" stop="20201203171000 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201201160000 -0300" stop="20201201163000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201203171000 -0600" stop="20201203180500 -0600" channel="history mexico">
+    <title lang="es">Lo mejor cazadores de tesoros</title>
   </programme>
-  <programme start="20201201163000 -0300" stop="20201201170000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201203180500 -0600" stop="20201203194500 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201201170000 -0300" stop="20201201173000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201203194500 -0600" stop="20201203201500 -0600" channel="history mexico">
+    <title lang="es">Lo mejor precio de la historia</title>
   </programme>
-  <programme start="20201201173000 -0300" stop="20201201180000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201203201500 -0600" stop="20201203204000 -0600" channel="history mexico">
+    <title lang="es">¿Quién da má$? Nueva York</title>
   </programme>
-  <programme start="20201201180000 -0300" stop="20201201183000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201203204000 -0600" stop="20201203213000 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201201183000 -0300" stop="20201201190000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201203213000 -0600" stop="20201203222000 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201201190000 -0300" stop="20201201193000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201203222000 -0600" stop="20201203231000 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201201193000 -0300" stop="20201201200000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201203231000 -0600" stop="20201204000000 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego LATAM</title>
   </programme>
-  <programme start="20201201200000 -0300" stop="20201201203000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201204000000 -0600" stop="20201204005500 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego LATAM</title>
   </programme>
-  <programme start="20201201203000 -0300" stop="20201201210000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201204005500 -0600" stop="20201204014500 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201201210000 -0300" stop="20201201213000 -0300" channel="MX FOX">
-    <title lang="es">Duncanville</title>
+  <programme start="20201204014500 -0600" stop="20201204021000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201201213000 -0300" stop="20201201220000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201204021000 -0600" stop="20201204023500 -0600" channel="history mexico">
+    <title lang="es">Lo mejor precio de la historia</title>
   </programme>
-  <programme start="20201201220000 -0300" stop="20201202000000 -0300" channel="MX FOX">
-    <title lang="es">El secreto de sus ojos</title>
+  <programme start="20201204023500 -0600" stop="20201204032500 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201202000000 -0300" stop="20201202002400 -0300" channel="MX FOX">
-    <title lang="es">El secreto de sus ojos</title>
+  <programme start="20201204032500 -0600" stop="20201204042000 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201202002400 -0300" stop="20201202005500 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201204042000 -0600" stop="20201204051500 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego LATAM</title>
   </programme>
-  <programme start="20201202005500 -0300" stop="20201202012500 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201204051500 -0600" stop="20201204060000 -0600" channel="history mexico">
+    <title lang="es">Lo mejor cazadores de tesoros</title>
   </programme>
-  <programme start="20201202012500 -0300" stop="20201202030300 -0300" channel="MX FOX">
-    <title lang="es">Séptimo</title>
+  <programme start="20201204060000 -0600" stop="20201204065000 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201202030300 -0300" stop="20201202060000 -0300" channel="MX FOX">
-    <title lang="es">Los padecientes</title>
+  <programme start="20201204065000 -0600" stop="20201204074000 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201202060000 -0300" stop="20201202063000 -0300" channel="MX FOX">
-    <title lang="es">Will and Grace</title>
+  <programme start="20201204074000 -0600" stop="20201204081000 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201202063000 -0300" stop="20201202070000 -0300" channel="MX FOX">
-    <title lang="es">Will and Grace</title>
+  <programme start="20201204081000 -0600" stop="20201204090000 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego LATAM</title>
   </programme>
-  <programme start="20201202070000 -0300" stop="20201202073000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201204090000 -0600" stop="20201204094500 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201202073000 -0300" stop="20201202080000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201204094500 -0600" stop="20201204103000 -0600" channel="history mexico">
+    <title lang="es">Cazadores de tesoros</title>
   </programme>
-  <programme start="20201202080000 -0300" stop="20201202083000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201204103000 -0600" stop="20201204111500 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201202083000 -0300" stop="20201202090000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201204111500 -0600" stop="20201204121000 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego LATAM</title>
   </programme>
-  <programme start="20201202090000 -0300" stop="20201202100000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201204121000 -0600" stop="20201204130000 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego LATAM</title>
   </programme>
-  <programme start="20201202100000 -0300" stop="20201202120000 -0300" channel="MX FOX">
-    <title lang="es">Condorito: la película</title>
+  <programme start="20201204130000 -0600" stop="20201204135000 -0600" channel="history mexico">
+    <title lang="es">Cazadores de tesoros</title>
   </programme>
-  <programme start="20201202120000 -0300" stop="20201202123000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201204135000 -0600" stop="20201204144000 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201202123000 -0300" stop="20201202130000 -0300" channel="MX FOX">
-    <title lang="es">Life in Pieces</title>
+  <programme start="20201204144000 -0600" stop="20201204150500 -0600" channel="history mexico">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201202130000 -0300" stop="20201202133000 -0300" channel="MX FOX">
-    <title lang="es">Life in Pieces</title>
+  <programme start="20201204150500 -0600" stop="20201204153000 -0600" channel="history mexico">
+    <title lang="es">Lo mejor precio de la historia</title>
   </programme>
-  <programme start="20201202133000 -0300" stop="20201202154500 -0300" channel="MX FOX">
-    <title lang="es">El amor menos pensado</title>
+  <programme start="20201204153000 -0600" stop="20201204162500 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201202154500 -0300" stop="20201202174500 -0300" channel="MX FOX">
-    <title lang="es">Re-loca</title>
+  <programme start="20201204162500 -0600" stop="20201204171500 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201202174500 -0300" stop="20201202193500 -0300" channel="MX FOX">
-    <title lang="es">Cómo entrenar a tu dragón</title>
+  <programme start="20201204171500 -0600" stop="20201204180500 -0600" channel="history mexico">
+    <title lang="es">Cazadores de tesoros</title>
   </programme>
-  <programme start="20201202193500 -0300" stop="20201202200000 -0300" channel="MX FOX">
-    <title lang="es">Futurama</title>
+  <programme start="20201204180500 -0600" stop="20201204190000 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego LATAM</title>
   </programme>
-  <programme start="20201202200000 -0300" stop="20201202203000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201204190000 -0600" stop="20201204195000 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201202203000 -0300" stop="20201202210000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201204195000 -0600" stop="20201204201500 -0600" channel="history mexico">
+    <title lang="es">Lo mejor precio de la historia</title>
   </programme>
-  <programme start="20201202210000 -0300" stop="20201202213000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201204201500 -0600" stop="20201204204000 -0600" channel="history mexico">
+    <title lang="es">¿Quién da má$? Nueva York</title>
   </programme>
-  <programme start="20201202213000 -0300" stop="20201202220000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201204204000 -0600" stop="20201204213000 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201202220000 -0300" stop="20201203000000 -0300" channel="MX FOX">
-    <title lang="es">Bohemian Rhapsody: La historia de Freddie Mercury</title>
+  <programme start="20201204213000 -0600" stop="20201204222000 -0600" channel="history mexico">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201203000000 -0300" stop="20201203003800 -0300" channel="MX FOX">
-    <title lang="es">Bohemian Rhapsody: La historia de Freddie Mercury</title>
+  <programme start="20201204222000 -0600" stop="20201204224500 -0600" channel="history mexico">
+    <title lang="es">¿Quién Da Má$</title>
   </programme>
-  <programme start="20201203003800 -0300" stop="20201203010800 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201204224500 -0600" stop="20201204231000 -0600" channel="history mexico">
+    <title lang="es">¿Quién Da Má$</title>
   </programme>
-  <programme start="20201203010800 -0300" stop="20201203013800 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201204231000 -0600" stop="20201205000000 -0600" channel="history mexico">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20201203013800 -0300" stop="20201203032100 -0300" channel="MX FOX">
-    <title lang="es">Actos de violencia</title>
+  <programme start="20201129001500 -0600" stop="20201129004000 -0600" channel="1">
+    <title lang="es">Unboxing extremo</title>
   </programme>
-  <programme start="20201203032100 -0300" stop="20201203060000 -0300" channel="MX FOX">
-    <title lang="es">El transportador 2</title>
+  <programme start="20201129004000 -0600" stop="20201129013000 -0600" channel="1">
+    <title lang="es">Locos por los autos</title>
   </programme>
-  <programme start="20201203060000 -0300" stop="20201203063000 -0300" channel="MX FOX">
-    <title lang="es">Will and Grace</title>
+  <programme start="20201129013000 -0600" stop="20201129022500 -0600" channel="1">
+    <title lang="es">El socio</title>
   </programme>
-  <programme start="20201203063000 -0300" stop="20201203070000 -0300" channel="MX FOX">
-    <title lang="es">Will and Grace</title>
+  <programme start="20201129022500 -0600" stop="20201129025000 -0600" channel="1">
+    <title lang="es">¿Quién da má$? Nueva York</title>
   </programme>
-  <programme start="20201203070000 -0300" stop="20201203073000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201129025000 -0600" stop="20201129034000 -0600" channel="1">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201203073000 -0300" stop="20201203080000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201129034000 -0600" stop="20201129040500 -0600" channel="1">
+    <title lang="es">20 años de History Clásicos</title>
   </programme>
-  <programme start="20201203080000 -0300" stop="20201203083000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201129040500 -0600" stop="20201129043000 -0600" channel="1">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201203083000 -0300" stop="20201203090000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201129043000 -0600" stop="20201129045500 -0600" channel="1">
+    <title lang="es">Unboxing extremo</title>
   </programme>
-  <programme start="20201203090000 -0300" stop="20201203100000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201129045500 -0600" stop="20201129052000 -0600" channel="1">
+    <title lang="es">Unboxing extremo</title>
   </programme>
-  <programme start="20201203100000 -0300" stop="20201203120000 -0300" channel="MX FOX">
-    <title lang="es">Los Aliens se comieron mi tarea</title>
+  <programme start="20201129052000 -0600" stop="20201129061500 -0600" channel="1">
+    <title lang="es">Locos por los autos</title>
   </programme>
-  <programme start="20201203120000 -0300" stop="20201203123000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129061500 -0600" stop="20201129064000 -0600" channel="1">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201203123000 -0300" stop="20201203130000 -0300" channel="MX FOX">
-    <title lang="es">Bless This Mess</title>
+  <programme start="20201129064000 -0600" stop="20201129070500 -0600" channel="1">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201203130000 -0300" stop="20201203133000 -0300" channel="MX FOX">
-    <title lang="es">Life in Pieces</title>
+  <programme start="20201129070500 -0600" stop="20201129080000 -0600" channel="1">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201203133000 -0300" stop="20201203140000 -0300" channel="MX FOX">
-    <title lang="es">Life in Pieces</title>
+  <programme start="20201129080000 -0600" stop="20201129083000 -0600" channel="1">
+    <title lang="es">Unboxing extremo</title>
   </programme>
-  <programme start="20201203140000 -0300" stop="20201203165000 -0300" channel="MX FOX">
-    <title lang="es">La verdad duele</title>
+  <programme start="20201129083000 -0600" stop="20201129090000 -0600" channel="1">
+    <title lang="es">Unboxing extremo</title>
   </programme>
-  <programme start="20201203165000 -0300" stop="20201203193500 -0300" channel="MX FOX">
-    <title lang="es">Logan</title>
+  <programme start="20201129090000 -0600" stop="20201129100000 -0600" channel="1">
+    <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20201203193500 -0300" stop="20201203200000 -0300" channel="MX FOX">
-    <title lang="es">Futurama</title>
+  <programme start="20201129100000 -0600" stop="20201129110000 -0600" channel="1">
+    <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20201203200000 -0300" stop="20201203203000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129110000 -0600" stop="20201129120000 -0600" channel="1">
+    <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20201203203000 -0300" stop="20201203210000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129120000 -0600" stop="20201129130000 -0600" channel="1">
+    <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20201203210000 -0300" stop="20201203213000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129130000 -0600" stop="20201129133000 -0600" channel="1">
+    <title lang="es">¿Quién da má$? Nueva York</title>
   </programme>
-  <programme start="20201203213000 -0300" stop="20201203220000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129133000 -0600" stop="20201129142500 -0600" channel="1">
+    <title lang="es">Locos por los autos</title>
   </programme>
-  <programme start="20201203220000 -0300" stop="20201204000000 -0300" channel="MX FOX">
-    <title lang="es">Miedo profundo</title>
+  <programme start="20201129142500 -0600" stop="20201129152000 -0600" channel="1">
+    <title lang="es">El socio</title>
   </programme>
-  <programme start="20201204000000 -0300" stop="20201204003000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129152000 -0600" stop="20201129154500 -0600" channel="1">
+    <title lang="es">20 años de History Clásicos</title>
   </programme>
-  <programme start="20201204003000 -0300" stop="20201204010000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129154500 -0600" stop="20201129161000 -0600" channel="1">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201204010000 -0300" stop="20201204023000 -0300" channel="MX FOX">
-    <title lang="es">Amor y disfunción</title>
+  <programme start="20201129161000 -0600" stop="20201129163500 -0600" channel="1">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201204023000 -0300" stop="20201204060000 -0300" channel="MX FOX">
-    <title lang="es">Dúplex</title>
+  <programme start="20201129163500 -0600" stop="20201129170000 -0600" channel="1">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201204060000 -0300" stop="20201204063000 -0300" channel="MX FOX">
-    <title lang="es">Will and Grace</title>
+  <programme start="20201129170000 -0600" stop="20201129174500 -0600" channel="1">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20201204063000 -0300" stop="20201204070000 -0300" channel="MX FOX">
-    <title lang="es">Will and Grace</title>
+  <programme start="20201129174500 -0600" stop="20201129181000 -0600" channel="1">
+    <title lang="es">Unboxing extremo</title>
   </programme>
-  <programme start="20201204070000 -0300" stop="20201204073000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201129181000 -0600" stop="20201129183500 -0600" channel="1">
+    <title lang="es">Unboxing extremo</title>
   </programme>
-  <programme start="20201204073000 -0300" stop="20201204080000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201129183500 -0600" stop="20201129193000 -0600" channel="1">
+    <title lang="es">El socio</title>
   </programme>
-  <programme start="20201204080000 -0300" stop="20201204083000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201129193000 -0600" stop="20201129202000 -0600" channel="1">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201204083000 -0300" stop="20201204090000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201129202000 -0600" stop="20201129220500 -0600" channel="1">
+    <title lang="es">Titanic talón de Aquiles</title>
   </programme>
-  <programme start="20201204090000 -0300" stop="20201204100000 -0300" channel="MX FOX">
-    <title lang="es">Infomercial</title>
+  <programme start="20201129220500 -0600" stop="20201129230000 -0600" channel="1">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201204100000 -0300" stop="20201204123000 -0300" channel="MX FOX">
-    <title lang="es">Sonido de la Navidad</title>
+  <programme start="20201129230000 -0600" stop="20201129235000 -0600" channel="1">
+    <title lang="es">No Identificado</title>
   </programme>
-  <programme start="20201204123000 -0300" stop="20201204130000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201129235000 -0600" stop="20201130004500 -0600" channel="1">
+    <title lang="es">Inexplicable con William Shatner</title>
   </programme>
-  <programme start="20201204130000 -0300" stop="20201204133000 -0300" channel="MX FOX">
-    <title lang="es">Life in Pieces</title>
+  <programme start="20201130235000 -0600" stop="20201201004500 -0600" channel="1">
+    <title lang="es">Inexplicable con William Shatner</title>
   </programme>
-  <programme start="20201204133000 -0300" stop="20201204140000 -0300" channel="MX FOX">
-    <title lang="es">Life in Pieces</title>
+  <programme start="20201201004500 -0600" stop="20201201022500 -0600" channel="1">
+    <title lang="es">1992 Los Ángeles en llamas</title>
   </programme>
-  <programme start="20201204140000 -0300" stop="20201204160000 -0300" channel="MX FOX">
-    <title lang="es">Mentes poderosas</title>
+  <programme start="20201201022500 -0600" stop="20201201032000 -0600" channel="1">
+    <title lang="es">Inexplicable con William Shatner</title>
   </programme>
-  <programme start="20201204160000 -0300" stop="20201204180000 -0300" channel="MX FOX">
-    <title lang="es">Megamente</title>
+  <programme start="20201201032000 -0600" stop="20201201042000 -0600" channel="1">
+    <title lang="es">No Identificado</title>
   </programme>
-  <programme start="20201204180000 -0300" stop="20201204193500 -0300" channel="MX FOX">
-    <title lang="es">Shrek tercero</title>
+  <programme start="20201201042000 -0600" stop="20201201062000 -0600" channel="1">
+    <title lang="es">Titanic talón de Aquiles</title>
   </programme>
-  <programme start="20201204193500 -0300" stop="20201204200000 -0300" channel="MX FOX">
-    <title lang="es">Futurama</title>
+  <programme start="20201201062000 -0600" stop="20201201080000 -0600" channel="1">
+    <title lang="es">1992 Los Ángeles en llamas</title>
   </programme>
-  <programme start="20201204200000 -0300" stop="20201204203000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201201080000 -0600" stop="20201201090000 -0600" channel="1">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20201204203000 -0300" stop="20201204210000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201201090000 -0600" stop="20201201100000 -0600" channel="1">
+    <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20201204210000 -0300" stop="20201204213000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201201100000 -0600" stop="20201201110000 -0600" channel="1">
+    <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20201204213000 -0300" stop="20201204220000 -0300" channel="MX FOX">
-    <title lang="es">Los Simpson</title>
+  <programme start="20201201110000 -0600" stop="20201201120000 -0600" channel="1">
+    <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20201204220000 -0300" stop="20201205000000 -0300" channel="MX FOX">
-    <title lang="es">Búsqueda implacable 3</title>
+  <programme start="20201201120000 -0600" stop="20201201130000 -0600" channel="1">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201201130000 -0600" stop="20201201135500 -0600" channel="1">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20201201135500 -0600" stop="20201201145000 -0600" channel="1">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20201201145000 -0600" stop="20201201151500 -0600" channel="1">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201201151500 -0600" stop="20201201161000 -0600" channel="1">
+    <title lang="es">Inexplicable con William Shatner</title>
+  </programme>
+  <programme start="20201201161000 -0600" stop="20201201170000 -0600" channel="1">
+    <title lang="es">No Identificado</title>
+  </programme>
+  <programme start="20201201170000 -0600" stop="20201201175500 -0600" channel="1">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20201201175500 -0600" stop="20201201185000 -0600" channel="1">
+    <title lang="es">Inexplicable con William Shatner</title>
+  </programme>
+  <programme start="20201201185000 -0600" stop="20201201193500 -0600" channel="1">
+    <title lang="es">No Identificado</title>
+  </programme>
+  <programme start="20201201193500 -0600" stop="20201201203000 -0600" channel="1">
+    <title lang="es">Inexplicable con William Shatner</title>
+  </programme>
+  <programme start="20201201203000 -0600" stop="20201201212000 -0600" channel="1">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20201201212000 -0600" stop="20201201221000 -0600" channel="1">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201201221000 -0600" stop="20201201235000 -0600" channel="1">
+    <title lang="es">La Revolución de los Videojuegos</title>
+  </programme>
+  <programme start="20201201235000 -0600" stop="20201202002000 -0600" channel="1">
+    <title lang="es">¿Quién da má$? Nueva York</title>
+  </programme>
+  <programme start="20201202235000 -0600" stop="20201203002000 -0600" channel="1">
+    <title lang="es">¿Quién da má$? Nueva York</title>
+  </programme>
+  <programme start="20201203002000 -0600" stop="20201203004500 -0600" channel="1">
+    <title lang="es">¿Quién da má$? Nueva York</title>
+  </programme>
+  <programme start="20201203004500 -0600" stop="20201203011500 -0600" channel="1">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201203011500 -0600" stop="20201203014000 -0600" channel="1">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201203014000 -0600" stop="20201203023000 -0600" channel="1">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20201203023000 -0600" stop="20201203032500 -0600" channel="1">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201203032500 -0600" stop="20201203050000 -0600" channel="1">
+    <title lang="es">La Revolución de los Videojuegos</title>
+  </programme>
+  <programme start="20201203050000 -0600" stop="20201203055000 -0600" channel="1">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201203055000 -0600" stop="20201203061500 -0600" channel="1">
+    <title lang="es">¿Quién da má$? Nueva York</title>
+  </programme>
+  <programme start="20201203061500 -0600" stop="20201203064000 -0600" channel="1">
+    <title lang="es">¿Quién da má$? Nueva York</title>
+  </programme>
+  <programme start="20201203064000 -0600" stop="20201203070500 -0600" channel="1">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201203070500 -0600" stop="20201203080000 -0600" channel="1">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201203080000 -0600" stop="20201203083000 -0600" channel="1">
+    <title lang="es">¿Quién da má$? Nueva York</title>
+  </programme>
+  <programme start="20201203083000 -0600" stop="20201203090000 -0600" channel="1">
+    <title lang="es">¿Quién da má$? Nueva York</title>
+  </programme>
+  <programme start="20201203130000 -0600" stop="20201203135500 -0600" channel="1">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20201203135500 -0600" stop="20201203142000 -0600" channel="1">
+    <title lang="es">¿Quién da má$? Nueva York</title>
+  </programme>
+  <programme start="20201203142000 -0600" stop="20201203145000 -0600" channel="1">
+    <title lang="es">¿Quién da má$? Nueva York</title>
+  </programme>
+  <programme start="20201203145000 -0600" stop="20201203151500 -0600" channel="1">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201203151500 -0600" stop="20201203161000 -0600" channel="1">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20201203161000 -0600" stop="20201203170000 -0600" channel="1">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201203170000 -0600" stop="20201203184000 -0600" channel="1">
+    <title lang="es">La Revolución de los Videojuegos</title>
+  </programme>
+  <programme start="20201203184000 -0600" stop="20201203193000 -0600" channel="1">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201203193000 -0600" stop="20201203195500 -0600" channel="1">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201203195500 -0600" stop="20201203202000 -0600" channel="1">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201203202000 -0600" stop="20201203211000 -0600" channel="1">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20201129004000 -0600" stop="20201129014000 -0600" channel="2">
+    <title lang="es">Guerras mundiales</title>
+  </programme>
+  <programme start="20201129014000 -0600" stop="20201129023000 -0600" channel="2">
+    <title lang="es">Monstruos reales</title>
+  </programme>
+  <programme start="20201129023000 -0600" stop="20201129033000 -0600" channel="2">
+    <title lang="es">La Biblia prohibida</title>
+  </programme>
+  <programme start="20201129033000 -0600" stop="20201129051000 -0600" channel="2">
+    <title lang="es">Estados Unidos horas decisivas de su historia</title>
+  </programme>
+  <programme start="20201129051000 -0600" stop="20201129061000 -0600" channel="2">
+    <title lang="es">Guerras mundiales</title>
+  </programme>
+  <programme start="20201129061000 -0600" stop="20201129071000 -0600" channel="2">
+    <title lang="es">Guerras mundiales</title>
+  </programme>
+  <programme start="20201129071000 -0600" stop="20201129080000 -0600" channel="2">
+    <title lang="es">Monstruos reales</title>
+  </programme>
+  <programme start="20201129080000 -0600" stop="20201129090000 -0600" channel="2">
+    <title lang="es">La Biblia prohibida</title>
+  </programme>
+  <programme start="20201129090000 -0600" stop="20201129100000 -0600" channel="2">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201129100000 -0600" stop="20201129110000 -0600" channel="2">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201129110000 -0600" stop="20201129120000 -0600" channel="2">
+    <title lang="es">Monstruos reales</title>
+  </programme>
+  <programme start="20201129120000 -0600" stop="20201129134000 -0600" channel="2">
+    <title lang="es">Estados Unidos horas decisivas de su historia</title>
+  </programme>
+  <programme start="20201129134000 -0600" stop="20201129143000 -0600" channel="2">
+    <title lang="es">Sugestiones</title>
+  </programme>
+  <programme start="20201129143000 -0600" stop="20201129152500 -0600" channel="2">
+    <title lang="es">Exploración Azteca</title>
+  </programme>
+  <programme start="20201129152500 -0600" stop="20201129161500 -0600" channel="2">
+    <title lang="es">La Biblia prohibida</title>
+  </programme>
+  <programme start="20201129161500 -0600" stop="20201129171000 -0600" channel="2">
+    <title lang="es">Monstruos reales</title>
+  </programme>
+  <programme start="20201129171000 -0600" stop="20201129181000 -0600" channel="2">
+    <title lang="es">Guerras mundiales</title>
+  </programme>
+  <programme start="20201129181000 -0600" stop="20201129190000 -0600" channel="2">
+    <title lang="es">Sugestiones</title>
+  </programme>
+  <programme start="20201129190000 -0600" stop="20201129204000 -0600" channel="2">
+    <title lang="es">Estados Unidos horas decisivas de su historia</title>
+  </programme>
+  <programme start="20201129204000 -0600" stop="20201129210500 -0600" channel="2">
+    <title lang="es">La gran historia</title>
+  </programme>
+  <programme start="20201129210500 -0600" stop="20201129220000 -0600" channel="2">
+    <title lang="es">Secretos de Estado</title>
+  </programme>
+  <programme start="20201129220000 -0600" stop="20201129225500 -0600" channel="2">
+    <title lang="es">En busca del oro perdido</title>
+  </programme>
+  <programme start="20201129225500 -0600" stop="20201129235000 -0600" channel="2">
+    <title lang="es">En busca del oro perdido</title>
+  </programme>
+  <programme start="20201129235000 -0600" stop="20201130013000 -0600" channel="2">
+    <title lang="es">Fuga de Alcatraz la evidencia perdida</title>
+  </programme>
+  <programme start="20201130013000 -0600" stop="20201130023000 -0600" channel="2">
+    <title lang="es">Ciudades Ocultas</title>
+  </programme>
+  <programme start="20201130023000 -0600" stop="20201130033000 -0600" channel="2">
+    <title lang="es">Secretos de Estado</title>
+  </programme>
+  <programme start="20201130033000 -0600" stop="20201130042500 -0600" channel="2">
+    <title lang="es">En busca del oro perdido</title>
+  </programme>
+  <programme start="20201130042500 -0600" stop="20201130052000 -0600" channel="2">
+    <title lang="es">En busca del oro perdido</title>
+  </programme>
+  <programme start="20201130052000 -0600" stop="20201130070000 -0600" channel="2">
+    <title lang="es">Fuga de Alcatraz la evidencia perdida</title>
+  </programme>
+  <programme start="20201130070000 -0600" stop="20201130080000 -0600" channel="2">
+    <title lang="es">Ciudades Ocultas</title>
+  </programme>
+  <programme start="20201130080000 -0600" stop="20201130090000 -0600" channel="2">
+    <title lang="es">Secretos de Estado</title>
+  </programme>
+  <programme start="20201130090000 -0600" stop="20201130100000 -0600" channel="2">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201130100000 -0600" stop="20201130110000 -0600" channel="2">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201130110000 -0600" stop="20201130120000 -0600" channel="2">
+    <title lang="es">Ciudades Ocultas</title>
+  </programme>
+  <programme start="20201130120000 -0600" stop="20201130125000 -0600" channel="2">
+    <title lang="es">En busca del oro perdido</title>
+  </programme>
+  <programme start="20201130125000 -0600" stop="20201130134000 -0600" channel="2">
+    <title lang="es">En busca del oro perdido</title>
+  </programme>
+  <programme start="20201130134000 -0600" stop="20201130152000 -0600" channel="2">
+    <title lang="es">Fuga de Alcatraz la evidencia perdida</title>
+  </programme>
+  <programme start="20201130152000 -0600" stop="20201130162000 -0600" channel="2">
+    <title lang="es">Secretos de Estado</title>
+  </programme>
+  <programme start="20201130162000 -0600" stop="20201130172000 -0600" channel="2">
+    <title lang="es">Ciudades Ocultas</title>
+  </programme>
+  <programme start="20201130172000 -0600" stop="20201130190000 -0600" channel="2">
+    <title lang="es">Fuga de Alcatraz la evidencia perdida</title>
+  </programme>
+  <programme start="20201130190000 -0600" stop="20201130200000 -0600" channel="2">
+    <title lang="es">En busca del oro perdido</title>
+  </programme>
+  <programme start="20201130200000 -0600" stop="20201130210000 -0600" channel="2">
+    <title lang="es">En busca del oro perdido</title>
+  </programme>
+  <programme start="20201130210000 -0600" stop="20201130220000 -0600" channel="2">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20201130220000 -0600" stop="20201130234000 -0600" channel="2">
+    <title lang="es">El complot de los Masones</title>
+  </programme>
+  <programme start="20201130234000 -0600" stop="20201201004000 -0600" channel="2">
+    <title lang="es">Batalla De Los Dioses</title>
+  </programme>
+  <programme start="20201201234000 -0600" stop="20201202004000 -0600" channel="2">
+    <title lang="es">Batalla De Los Dioses</title>
+  </programme>
+  <programme start="20201202004000 -0600" stop="20201202013500 -0600" channel="2">
+    <title lang="es">El secreto de Skinwalker</title>
+  </programme>
+  <programme start="20201202013500 -0600" stop="20201202023000 -0600" channel="2">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201202023000 -0600" stop="20201202033000 -0600" channel="2">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20201202033000 -0600" stop="20201202051000 -0600" channel="2">
+    <title lang="es">El complot de los Masones</title>
+  </programme>
+  <programme start="20201202051000 -0600" stop="20201202061000 -0600" channel="2">
+    <title lang="es">Batalla De Los Dioses</title>
+  </programme>
+  <programme start="20201202061000 -0600" stop="20201202070500 -0600" channel="2">
+    <title lang="es">El secreto de Skinwalker</title>
+  </programme>
+  <programme start="20201202070500 -0600" stop="20201202080000 -0600" channel="2">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201202080000 -0600" stop="20201202090000 -0600" channel="2">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20201202110000 -0600" stop="20201202115500 -0600" channel="2">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201202115500 -0600" stop="20201202133500 -0600" channel="2">
+    <title lang="es">El complot de los Masones</title>
+  </programme>
+  <programme start="20201202133500 -0600" stop="20201202143000 -0600" channel="2">
+    <title lang="es">Batalla De Los Dioses</title>
+  </programme>
+  <programme start="20201202143000 -0600" stop="20201202152500 -0600" channel="2">
+    <title lang="es">El secreto de Skinwalker</title>
+  </programme>
+  <programme start="20201202152500 -0600" stop="20201202161500 -0600" channel="2">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20201202161500 -0600" stop="20201202171000 -0600" channel="2">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201202171000 -0600" stop="20201202180500 -0600" channel="2">
+    <title lang="es">Batalla De Los Dioses</title>
+  </programme>
+  <programme start="20201202180500 -0600" stop="20201202190000 -0600" channel="2">
+    <title lang="es">El secreto de Skinwalker</title>
+  </programme>
+  <programme start="20201202190000 -0600" stop="20201202204000 -0600" channel="2">
+    <title lang="es">El complot de los Masones</title>
+  </programme>
+  <programme start="20201202204000 -0600" stop="20201202210500 -0600" channel="2">
+    <title lang="es">La gran historia</title>
+  </programme>
+  <programme start="20201129010000 -0600" stop="20201129024000 -0600" channel="3">
+    <title lang="es">Estados Unidos horas</title>
+  </programme>
+  <programme start="20201129024000 -0600" stop="20201129034000 -0600" channel="3">
+    <title lang="es">Monstruos reales</title>
+  </programme>
+  <programme start="20201129034000 -0600" stop="20201129044000 -0600" channel="3">
+    <title lang="es">La Biblia prohibida</title>
+  </programme>
+  <programme start="20201129044000 -0600" stop="20201129054000 -0600" channel="3">
+    <title lang="es">Guerras mundiales</title>
+  </programme>
+  <programme start="20201129054000 -0600" stop="20201129064000 -0600" channel="3">
+    <title lang="es">Guerras mundiales</title>
+  </programme>
+  <programme start="20201129064000 -0600" stop="20201129073500 -0600" channel="3">
+    <title lang="es">Exploración Azteca</title>
+  </programme>
+  <programme start="20201129073500 -0600" stop="20201129083000 -0600" channel="3">
+    <title lang="es">Exploración Azteca</title>
+  </programme>
+  <programme start="20201129083000 -0600" stop="20201129090000 -0600" channel="3">
+    <title lang="es">La gran historia</title>
+  </programme>
+  <programme start="20201129090000 -0600" stop="20201129100000 -0600" channel="3">
+    <title lang="es">Monstruos reales</title>
+  </programme>
+  <programme start="20201129100000 -0600" stop="20201129105500 -0600" channel="3">
+    <title lang="es">La Biblia prohibida</title>
+  </programme>
+  <programme start="20201129105500 -0600" stop="20201129115500 -0600" channel="3">
+    <title lang="es">Guerras mundiales</title>
+  </programme>
+  <programme start="20201129115500 -0600" stop="20201129125500 -0600" channel="3">
+    <title lang="es">Guerras mundiales</title>
+  </programme>
+  <programme start="20201129125500 -0600" stop="20201129143500 -0600" channel="3">
+    <title lang="es">Estados Unidos horas</title>
+  </programme>
+  <programme start="20201129143500 -0600" stop="20201129153000 -0600" channel="3">
+    <title lang="es">La Biblia prohibida</title>
+  </programme>
+  <programme start="20201129153000 -0600" stop="20201129162500 -0600" channel="3">
+    <title lang="es">Monstruos reales</title>
+  </programme>
+  <programme start="20201129162500 -0600" stop="20201129180500 -0600" channel="3">
+    <title lang="es">Estados Unidos horas</title>
+  </programme>
+  <programme start="20201129180500 -0600" stop="20201129190000 -0600" channel="3">
+    <title lang="es">Exploración Azteca</title>
+  </programme>
+  <programme start="20201129190000 -0600" stop="20201129195000 -0600" channel="3">
+    <title lang="es">Sugestiones</title>
+  </programme>
+  <programme start="20201129195000 -0600" stop="20201129204500 -0600" channel="3">
+    <title lang="es">Ciudades Ocultas</title>
+  </programme>
+  <programme start="20201129204500 -0600" stop="20201129222500 -0600" channel="3">
+    <title lang="es">Estados Unidos horas</title>
+  </programme>
+  <programme start="20201129222500 -0600" stop="20201129232000 -0600" channel="3">
+    <title lang="es">Secretos de Estado</title>
+  </programme>
+  <programme start="20201129232000 -0600" stop="20201130010000 -0600" channel="3">
+    <title lang="es">Fuga de Alcatraz</title>
+  </programme>
+  <programme start="20201130010000 -0600" stop="20201130015500 -0600" channel="3">
+    <title lang="es">En busca del oro perdido</title>
+  </programme>
+  <programme start="20201130015500 -0600" stop="20201130025500 -0600" channel="3">
+    <title lang="es">En busca del oro perdido</title>
+  </programme>
+  <programme start="20201130025500 -0600" stop="20201130035500 -0600" channel="3">
+    <title lang="es">Ciudades Ocultas</title>
+  </programme>
+  <programme start="20201130035500 -0600" stop="20201130045500 -0600" channel="3">
+    <title lang="es">Secretos de Estado</title>
+  </programme>
+  <programme start="20201130045500 -0600" stop="20201130063500 -0600" channel="3">
+    <title lang="es">Fuga de Alcatraz</title>
+  </programme>
+  <programme start="20201130063500 -0600" stop="20201130073500 -0600" channel="3">
+    <title lang="es">Exploración Azteca</title>
+  </programme>
+  <programme start="20201130073500 -0600" stop="20201130083000 -0600" channel="3">
+    <title lang="es">Exploración Azteca</title>
+  </programme>
+  <programme start="20201130083000 -0600" stop="20201130090000 -0600" channel="3">
+    <title lang="es">La gran historia</title>
+  </programme>
+  <programme start="20201130090000 -0600" stop="20201130100000 -0600" channel="3">
+    <title lang="es">Ciudades Ocultas</title>
+  </programme>
+  <programme start="20201130100000 -0600" stop="20201130110000 -0600" channel="3">
+    <title lang="es">Secretos de Estado</title>
+  </programme>
+  <programme start="20201130110000 -0600" stop="20201130124000 -0600" channel="3">
+    <title lang="es">Fuga de Alcatraz</title>
+  </programme>
+  <programme start="20201130124000 -0600" stop="20201130134000 -0600" channel="3">
+    <title lang="es">En busca del oro perdido</title>
+  </programme>
+  <programme start="20201130134000 -0600" stop="20201130143500 -0600" channel="3">
+    <title lang="es">En busca del oro perdido</title>
+  </programme>
+  <programme start="20201130143500 -0600" stop="20201130153000 -0600" channel="3">
+    <title lang="es">Secretos de Estado</title>
+  </programme>
+  <programme start="20201130153000 -0600" stop="20201130162500 -0600" channel="3">
+    <title lang="es">Ciudades Ocultas</title>
+  </programme>
+  <programme start="20201130162500 -0600" stop="20201130171500 -0600" channel="3">
+    <title lang="es">En busca del oro perdido</title>
+  </programme>
+  <programme start="20201130171500 -0600" stop="20201130180500 -0600" channel="3">
+    <title lang="es">En busca del oro perdido</title>
+  </programme>
+  <programme start="20201130180500 -0600" stop="20201130194500 -0600" channel="3">
+    <title lang="es">Fuga de Alcatraz</title>
+  </programme>
+  <programme start="20201130194500 -0600" stop="20201130204500 -0600" channel="3">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201130204500 -0600" stop="20201130213500 -0600" channel="3">
+    <title lang="es">En busca del oro perdido</title>
+  </programme>
+  <programme start="20201130213500 -0600" stop="20201130222500 -0600" channel="3">
+    <title lang="es">En busca del oro perdido</title>
+  </programme>
+  <programme start="20201130222500 -0600" stop="20201130231500 -0600" channel="3">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20201130231500 -0600" stop="20201201000500 -0600" channel="3">
+    <title lang="es">El secreto de Skinwalker</title>
+  </programme>
+  <programme start="20201201231500 -0600" stop="20201202000500 -0600" channel="3">
+    <title lang="es">El secreto de Skinwalker</title>
+  </programme>
+  <programme start="20201202000500 -0600" stop="20201202010000 -0600" channel="3">
+    <title lang="es">Batalla De Los Dioses</title>
+  </programme>
+  <programme start="20201202010000 -0600" stop="20201202024000 -0600" channel="3">
+    <title lang="es">El complot de los Masones</title>
+  </programme>
+  <programme start="20201202024000 -0600" stop="20201202033500 -0600" channel="3">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201202033500 -0600" stop="20201202040500 -0600" channel="3">
+    <title lang="es">La gran historia</title>
+  </programme>
+  <programme start="20201202040500 -0600" stop="20201202045500 -0600" channel="3">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20201202045500 -0600" stop="20201202054500 -0600" channel="3">
+    <title lang="es">El secreto de Skinwalker</title>
+  </programme>
+  <programme start="20201202054500 -0600" stop="20201202064000 -0600" channel="3">
+    <title lang="es">Batalla De Los Dioses</title>
+  </programme>
+  <programme start="20201202064000 -0600" stop="20201202073500 -0600" channel="3">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20201202073500 -0600" stop="20201202083000 -0600" channel="3">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20201202083000 -0600" stop="20201202090000 -0600" channel="3">
+    <title lang="es">La gran historia</title>
+  </programme>
+  <programme start="20201202090000 -0600" stop="20201202100000 -0600" channel="3">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201202100000 -0600" stop="20201202110000 -0600" channel="3">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20201202110000 -0600" stop="20201202115500 -0600" channel="3">
+    <title lang="es">El secreto de Skinwalker</title>
+  </programme>
+  <programme start="20201202115500 -0600" stop="20201202125500 -0600" channel="3">
+    <title lang="es">Batalla De Los Dioses</title>
+  </programme>
+  <programme start="20201202125500 -0600" stop="20201202143500 -0600" channel="3">
+    <title lang="es">El complot de los Masones</title>
+  </programme>
+  <programme start="20201202143500 -0600" stop="20201202153000 -0600" channel="3">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20201202153000 -0600" stop="20201202162500 -0600" channel="3">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201202162500 -0600" stop="20201202180500 -0600" channel="3">
+    <title lang="es">El complot de los Masones</title>
+  </programme>
+  <programme start="20201202180500 -0600" stop="20201202185500 -0600" channel="3">
+    <title lang="es">El secreto de Skinwalker</title>
+  </programme>
+  <programme start="20201202185500 -0600" stop="20201202195000 -0600" channel="3">
+    <title lang="es">Batalla De Los Dioses</title>
+  </programme>
+  <programme start="20201202195000 -0600" stop="20201202204500 -0600" channel="3">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201202204500 -0600" stop="20201202222500 -0600" channel="3">
+    <title lang="es">El complot de los Masones</title>
+  </programme>
+  <programme start="20201202222500 -0600" stop="20201202231500 -0600" channel="3">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20201202231500 -0600" stop="20201203000500 -0600" channel="3">
+    <title lang="es">Granjeros</title>
+  </programme>
+  <programme start="20201203000500 -0600" stop="20201203010000 -0600" channel="3">
+    <title lang="es">Construyendo un Imperio</title>
+  </programme>
+  <programme start="20201203010000 -0600" stop="20201203015500 -0600" channel="3">
+    <title lang="es">Rise up El movimiento</title>
+  </programme>
+  <programme start="20201203015500 -0600" stop="20201203025000 -0600" channel="3">
+    <title lang="es">Los últimos días de los nazis</title>
+  </programme>
+  <programme start="20201203025000 -0600" stop="20201203035000 -0600" channel="3">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201203035000 -0600" stop="20201203045000 -0600" channel="3">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20201203045000 -0600" stop="20201203054500 -0600" channel="3">
+    <title lang="es">Granjeros</title>
+  </programme>
+  <programme start="20201203054500 -0600" stop="20201203064000 -0600" channel="3">
+    <title lang="es">Construyendo un Imperio</title>
+  </programme>
+  <programme start="20201203064000 -0600" stop="20201203073500 -0600" channel="3">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20201203073500 -0600" stop="20201203083000 -0600" channel="3">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20201203083000 -0600" stop="20201203090000 -0600" channel="3">
+    <title lang="es">La gran historia</title>
+  </programme>
+  <programme start="20201203090000 -0600" stop="20201203100000 -0600" channel="3">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201203100000 -0600" stop="20201203110000 -0600" channel="3">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20201203110000 -0600" stop="20201203115500 -0600" channel="3">
+    <title lang="es">Granjeros</title>
+  </programme>
+  <programme start="20201203115500 -0600" stop="20201203125000 -0600" channel="3">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20201203125000 -0600" stop="20201203134500 -0600" channel="3">
+    <title lang="es">Rise up El movimiento</title>
+  </programme>
+  <programme start="20201203134500 -0600" stop="20201203143500 -0600" channel="3">
+    <title lang="es">El tesoro perdido</title>
+  </programme>
+  <programme start="20201203143500 -0600" stop="20201203153000 -0600" channel="3">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20201203153000 -0600" stop="20201203162500 -0600" channel="3">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201203162500 -0600" stop="20201203172000 -0600" channel="3">
+    <title lang="es">Rise up El movimiento</title>
+  </programme>
+  <programme start="20201203172000 -0600" stop="20201203181000 -0600" channel="3">
+    <title lang="es">El tesoro perdido</title>
+  </programme>
+  <programme start="20201203181000 -0600" stop="20201203190000 -0600" channel="3">
+    <title lang="es">Construyendo un Imperio</title>
+  </programme>
+  <programme start="20201203190000 -0600" stop="20201203195000 -0600" channel="3">
+    <title lang="es">Granjeros</title>
+  </programme>
+  <programme start="20201203195000 -0600" stop="20201203204500 -0600" channel="3">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201203204500 -0600" stop="20201203213500 -0600" channel="3">
+    <title lang="es">Construyendo un Imperio</title>
+  </programme>
+  <programme start="20201203213500 -0600" stop="20201203223000 -0600" channel="3">
+    <title lang="es">Rise up El movimiento</title>
+  </programme>
+  <programme start="20201203223000 -0600" stop="20201203232000 -0600" channel="3">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20201203232000 -0600" stop="20201204010000 -0600" channel="3">
+    <title lang="es">Presidentes decisiones</title>
+  </programme>
+  <programme start="20201204232000 -0600" stop="20201205010000 -0600" channel="3">
+    <title lang="es">Presidentes decisiones</title>
+  </programme>
+  <programme start="20201205010000 -0600" stop="20201205024000 -0600" channel="3">
+    <title lang="es">Presidentes decisiones</title>
+  </programme>
+  <programme start="20201205024000 -0600" stop="20201205033500 -0600" channel="3">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201205033500 -0600" stop="20201205040500 -0600" channel="3">
+    <title lang="es">La gran historia</title>
+  </programme>
+  <programme start="20201205040500 -0600" stop="20201205045500 -0600" channel="3">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20201205045500 -0600" stop="20201205063500 -0600" channel="3">
+    <title lang="es">Presidentes decisiones</title>
+  </programme>
+  <programme start="20201205063500 -0600" stop="20201205073500 -0600" channel="3">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20201205073500 -0600" stop="20201205083000 -0600" channel="3">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20201205083000 -0600" stop="20201205090000 -0600" channel="3">
+    <title lang="es">La gran historia</title>
+  </programme>
+  <programme start="20201205090000 -0600" stop="20201205095500 -0600" channel="3">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201205095500 -0600" stop="20201205105000 -0600" channel="3">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20201205105000 -0600" stop="20201205122500 -0600" channel="3">
+    <title lang="es">Presidentes decisiones</title>
+  </programme>
+  <programme start="20201205122500 -0600" stop="20201205125500 -0600" channel="3">
+    <title lang="es">La gran historia</title>
+  </programme>
+  <programme start="20201205125500 -0600" stop="20201205143500 -0600" channel="3">
+    <title lang="es">Presidentes decisiones</title>
+  </programme>
+  <programme start="20201205143500 -0600" stop="20201205153000 -0600" channel="3">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20201205153000 -0600" stop="20201205162500 -0600" channel="3">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201205162500 -0600" stop="20201205180500 -0600" channel="3">
+    <title lang="es">Presidentes decisiones</title>
+  </programme>
+  <programme start="20201205180500 -0600" stop="20201205194500 -0600" channel="3">
+    <title lang="es">Presidentes decisiones</title>
+  </programme>
+  <programme start="20201205194500 -0600" stop="20201205204500 -0600" channel="3">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201205204500 -0600" stop="20201205222500 -0600" channel="3">
+    <title lang="es">Presidentes decisiones</title>
+  </programme>
+  <programme start="20201205222500 -0600" stop="20201205231500 -0600" channel="3">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20201205231500 -0600" stop="20201206000500 -0600" channel="3">
+    <title lang="es">N. Tesla archivos perdidos</title>
+  </programme>
+  <programme start="20201129010000 -0600" stop="20201129020000 -0600" channel="4">
+    <title lang="es">El oro perdido de la segunda guerra mundial</title>
+  </programme>
+  <programme start="20201129020000 -0600" stop="20201129030000 -0600" channel="4">
+    <title lang="es">La historia secreta de la Casa Blanca</title>
+  </programme>
+  <programme start="20201129030000 -0600" stop="20201129040000 -0600" channel="4">
+    <title lang="es">La historia secreta del Air Force One</title>
+  </programme>
+  <programme start="20201129040000 -0600" stop="20201129050000 -0600" channel="4">
+    <title lang="es">Amos del pantano</title>
+  </programme>
+  <programme start="20201129050000 -0600" stop="20201129060000 -0600" channel="4">
+    <title lang="es">El oro perdido de la segunda guerra mundial</title>
+  </programme>
+  <programme start="20201129060000 -0600" stop="20201129070000 -0600" channel="4">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201129070000 -0600" stop="20201129080000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201129080000 -0600" stop="20201129083000 -0600" channel="4">
+    <title lang="es">¡Increíbles Resultados</title>
+  </programme>
+  <programme start="20201129083000 -0600" stop="20201129090000 -0600" channel="4">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201129090000 -0600" stop="20201129093000 -0600" channel="4">
+    <title lang="es">Shark IQ Robot: Ultimate Convenience</title>
+  </programme>
+  <programme start="20201129093000 -0600" stop="20201129100000 -0600" channel="4">
+    <title lang="es">En Contacto con Dr. Charles Stanley</title>
+  </programme>
+  <programme start="20201129100000 -0600" stop="20201129110000 -0600" channel="4">
+    <title lang="es">La historia secreta de la Casa Blanca</title>
+  </programme>
+  <programme start="20201129110000 -0600" stop="20201129120000 -0600" channel="4">
+    <title lang="es">La historia secreta del Air Force One</title>
+  </programme>
+  <programme start="20201129120000 -0600" stop="20201129130000 -0600" channel="4">
+    <title lang="es">Amos del pantano</title>
+  </programme>
+  <programme start="20201129130000 -0600" stop="20201129140000 -0600" channel="4">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201129140000 -0600" stop="20201129150000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201129150000 -0600" stop="20201129160000 -0600" channel="4">
+    <title lang="es">El oro perdido de la segunda guerra mundial</title>
+  </programme>
+  <programme start="20201129160000 -0600" stop="20201129170000 -0600" channel="4">
+    <title lang="es">La historia secreta de la Casa Blanca</title>
+  </programme>
+  <programme start="20201129170000 -0600" stop="20201129180000 -0600" channel="4">
+    <title lang="es">La historia secreta del Air Force One</title>
+  </programme>
+  <programme start="20201129180000 -0600" stop="20201129190000 -0600" channel="4">
+    <title lang="es">Amos del pantano</title>
+  </programme>
+  <programme start="20201129190000 -0600" stop="20201129200000 -0600" channel="4">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201129200000 -0600" stop="20201129210000 -0600" channel="4">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201129210000 -0600" stop="20201129213000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201129213000 -0600" stop="20201129220000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201129220000 -0600" stop="20201129223000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201129223000 -0600" stop="20201129230000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201129230000 -0600" stop="20201129233000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201129233000 -0600" stop="20201130000000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201130000000 -0600" stop="20201130010000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201130010000 -0600" stop="20201130013000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201130013000 -0600" stop="20201130020000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201130020000 -0600" stop="20201130023000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201130023000 -0600" stop="20201130030000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201130030000 -0600" stop="20201130033000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201130033000 -0600" stop="20201130040000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201130040000 -0600" stop="20201130050000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201130050000 -0600" stop="20201130053000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201130053000 -0600" stop="20201130060000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201130060000 -0600" stop="20201130070000 -0600" channel="4">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201130070000 -0600" stop="20201130080000 -0600" channel="4">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201130080000 -0600" stop="20201130083000 -0600" channel="4">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201130090000 -0600" stop="20201130093000 -0600" channel="4">
+    <title lang="es">¡Increíbles Resultados</title>
+  </programme>
+  <programme start="20201130093000 -0600" stop="20201130100000 -0600" channel="4">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201130100000 -0600" stop="20201130103000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201130103000 -0600" stop="20201130110000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201130110000 -0600" stop="20201130113000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201130113000 -0600" stop="20201130120000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201130120000 -0600" stop="20201130130000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201130130000 -0600" stop="20201130140000 -0600" channel="4">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201130140000 -0600" stop="20201130150000 -0600" channel="4">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201130150000 -0600" stop="20201130153000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201130153000 -0600" stop="20201130160000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201130160000 -0600" stop="20201130163000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201130163000 -0600" stop="20201130170000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201130170000 -0600" stop="20201130173000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201130173000 -0600" stop="20201130180000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201130180000 -0600" stop="20201130190000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201130190000 -0600" stop="20201130200000 -0600" channel="4">
+    <title lang="es">Extraterrestres de la Antiguedad</title>
+  </programme>
+  <programme start="20201130200000 -0600" stop="20201130203000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201130203000 -0600" stop="20201130210000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201130210000 -0600" stop="20201130220000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201130220000 -0600" stop="20201130230000 -0600" channel="4">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201130230000 -0600" stop="20201201000000 -0600" channel="4">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201201000000 -0600" stop="20201201010000 -0600" channel="4">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201201010000 -0600" stop="20201201020000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201201020000 -0600" stop="20201201030000 -0600" channel="4">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201201030000 -0600" stop="20201201040000 -0600" channel="4">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201201040000 -0600" stop="20201201050000 -0600" channel="4">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201201050000 -0600" stop="20201201060000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201201060000 -0600" stop="20201201070000 -0600" channel="4">
+    <title lang="es">Extraterrestres de la Antiguedad</title>
+  </programme>
+  <programme start="20201201070000 -0600" stop="20201201073000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201201073000 -0600" stop="20201201080000 -0600" channel="4">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20201201080000 -0600" stop="20201201083000 -0600" channel="4">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201201083000 -0600" stop="20201201090000 -0600" channel="4">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201201090000 -0600" stop="20201201093000 -0600" channel="4">
+    <title lang="es">¿Cabello Delgado? ¡Keranique Ayuda Crecer Cabello Hermoso, Más Grueso</title>
+  </programme>
+  <programme start="20201201093000 -0600" stop="20201201100000 -0600" channel="4">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201201100000 -0600" stop="20201201110000 -0600" channel="4">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201201110000 -0600" stop="20201201120000 -0600" channel="4">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201201120000 -0600" stop="20201201130000 -0600" channel="4">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201201130000 -0600" stop="20201201140000 -0600" channel="4">
+    <title lang="es">Extraterrestres de la Antiguedad</title>
+  </programme>
+  <programme start="20201201140000 -0600" stop="20201201143000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201201143000 -0600" stop="20201201150000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201201150000 -0600" stop="20201201160000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201201160000 -0600" stop="20201201170000 -0600" channel="4">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201201170000 -0600" stop="20201201180000 -0600" channel="4">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201201180000 -0600" stop="20201201190000 -0600" channel="4">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201201190000 -0600" stop="20201201200000 -0600" channel="4">
+    <title lang="es">Extraterrestres de la Antiguedad</title>
+  </programme>
+  <programme start="20201201200000 -0600" stop="20201201203000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201201203000 -0600" stop="20201201210000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201201210000 -0600" stop="20201201220000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201201220000 -0600" stop="20201201230000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201201230000 -0600" stop="20201202000000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201202000000 -0600" stop="20201202010000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201202010000 -0600" stop="20201202020000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201202020000 -0600" stop="20201202030000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201202030000 -0600" stop="20201202040000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201202040000 -0600" stop="20201202050000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201202050000 -0600" stop="20201202060000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201202060000 -0600" stop="20201202070000 -0600" channel="4">
+    <title lang="es">Extraterrestres de la Antiguedad</title>
+  </programme>
+  <programme start="20201202070000 -0600" stop="20201202073000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201202073000 -0600" stop="20201202080000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201202090000 -0600" stop="20201202093000 -0600" channel="4">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201202093000 -0600" stop="20201202100000 -0600" channel="4">
+    <title lang="es">¡Increíbles Resultados</title>
+  </programme>
+  <programme start="20201202100000 -0600" stop="20201202110000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201202110000 -0600" stop="20201202120000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201202120000 -0600" stop="20201202130000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201202130000 -0600" stop="20201202140000 -0600" channel="4">
+    <title lang="es">Extraterrestres de la Antiguedad</title>
+  </programme>
+  <programme start="20201202140000 -0600" stop="20201202143000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201202143000 -0600" stop="20201202150000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201202150000 -0600" stop="20201202160000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201202160000 -0600" stop="20201202170000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201202170000 -0600" stop="20201202180000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201202180000 -0600" stop="20201202190000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201202190000 -0600" stop="20201202200000 -0600" channel="4">
+    <title lang="es">Extraterrestres de la Antiguedad</title>
+  </programme>
+  <programme start="20201202200000 -0600" stop="20201202203000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201202203000 -0600" stop="20201202210000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201202210000 -0600" stop="20201202220000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201202220000 -0600" stop="20201202230000 -0600" channel="4">
+    <title lang="es">Tesoros templarios</title>
+  </programme>
+  <programme start="20201202230000 -0600" stop="20201203000000 -0600" channel="4">
+    <title lang="es">Tesoros templarios</title>
+  </programme>
+  <programme start="20201203000000 -0600" stop="20201203010000 -0600" channel="4">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20201203010000 -0600" stop="20201203020000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201203020000 -0600" stop="20201203030000 -0600" channel="4">
+    <title lang="es">Tesoros templarios</title>
+  </programme>
+  <programme start="20201203030000 -0600" stop="20201203040000 -0600" channel="4">
+    <title lang="es">Tesoros templarios</title>
+  </programme>
+  <programme start="20201203040000 -0600" stop="20201203050000 -0600" channel="4">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20201203050000 -0600" stop="20201203060000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201203060000 -0600" stop="20201203070000 -0600" channel="4">
+    <title lang="es">Extraterrestres de la Antiguedad</title>
+  </programme>
+  <programme start="20201203070000 -0600" stop="20201203073000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201203073000 -0600" stop="20201203080000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201203100000 -0600" stop="20201203110000 -0600" channel="4">
+    <title lang="es">Tesoros templarios</title>
+  </programme>
+  <programme start="20201203110000 -0600" stop="20201203120000 -0600" channel="4">
+    <title lang="es">Tesoros templarios</title>
+  </programme>
+  <programme start="20201203120000 -0600" stop="20201203130000 -0600" channel="4">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20201203130000 -0600" stop="20201203140000 -0600" channel="4">
+    <title lang="es">Extraterrestres de la Antiguedad</title>
+  </programme>
+  <programme start="20201203140000 -0600" stop="20201203143000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201203143000 -0600" stop="20201203150000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201203150000 -0600" stop="20201203160000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201203160000 -0600" stop="20201203170000 -0600" channel="4">
+    <title lang="es">Tesoros templarios</title>
+  </programme>
+  <programme start="20201203170000 -0600" stop="20201203180000 -0600" channel="4">
+    <title lang="es">Tesoros templarios</title>
+  </programme>
+  <programme start="20201203180000 -0600" stop="20201203190000 -0600" channel="4">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20201203190000 -0600" stop="20201203200000 -0600" channel="4">
+    <title lang="es">Extraterrestres de la Antiguedad</title>
+  </programme>
+  <programme start="20201203200000 -0600" stop="20201203203000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201203203000 -0600" stop="20201203210000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201203210000 -0600" stop="20201203220000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201203220000 -0600" stop="20201203230000 -0600" channel="4">
+    <title lang="es">Hombres de montaña</title>
+  </programme>
+  <programme start="20201203230000 -0600" stop="20201204000000 -0600" channel="4">
+    <title lang="es">Hombres de montaña</title>
+  </programme>
+  <programme start="20201204000000 -0600" stop="20201204010000 -0600" channel="4">
+    <title lang="es">Amos del pantano</title>
+  </programme>
+  <programme start="20201204010000 -0600" stop="20201204020000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201204020000 -0600" stop="20201204030000 -0600" channel="4">
+    <title lang="es">Hombres de montaña</title>
+  </programme>
+  <programme start="20201204030000 -0600" stop="20201204040000 -0600" channel="4">
+    <title lang="es">Hombres de montaña</title>
+  </programme>
+  <programme start="20201204040000 -0600" stop="20201204050000 -0600" channel="4">
+    <title lang="es">Amos del pantano</title>
+  </programme>
+  <programme start="20201204050000 -0600" stop="20201204060000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201204060000 -0600" stop="20201204070000 -0600" channel="4">
+    <title lang="es">Extraterrestres de la Antiguedad</title>
+  </programme>
+  <programme start="20201204070000 -0600" stop="20201204073000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201204073000 -0600" stop="20201204080000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201204100000 -0600" stop="20201204110000 -0600" channel="4">
+    <title lang="es">Hombres de montaña</title>
+  </programme>
+  <programme start="20201204110000 -0600" stop="20201204120000 -0600" channel="4">
+    <title lang="es">Hombres de montaña</title>
+  </programme>
+  <programme start="20201204120000 -0600" stop="20201204130000 -0600" channel="4">
+    <title lang="es">Amos del pantano</title>
+  </programme>
+  <programme start="20201204130000 -0600" stop="20201204140000 -0600" channel="4">
+    <title lang="es">Extraterrestres de la Antiguedad</title>
+  </programme>
+  <programme start="20201204140000 -0600" stop="20201204143000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201204143000 -0600" stop="20201204150000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201204150000 -0600" stop="20201204160000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201204160000 -0600" stop="20201204170000 -0600" channel="4">
+    <title lang="es">Hombres de montaña</title>
+  </programme>
+  <programme start="20201204170000 -0600" stop="20201204180000 -0600" channel="4">
+    <title lang="es">Hombres de montaña</title>
+  </programme>
+  <programme start="20201204180000 -0600" stop="20201204190000 -0600" channel="4">
+    <title lang="es">Amos del pantano</title>
+  </programme>
+  <programme start="20201204190000 -0600" stop="20201204200000 -0600" channel="4">
+    <title lang="es">Extraterrestres de la Antiguedad</title>
+  </programme>
+  <programme start="20201204200000 -0600" stop="20201204203000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201204203000 -0600" stop="20201204210000 -0600" channel="4">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201204210000 -0600" stop="20201204220000 -0600" channel="4">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201204220000 -0600" stop="20201204230000 -0600" channel="4">
+    <title lang="es">No Identificado</title>
+  </programme>
+  <programme start="20201204230000 -0600" stop="20201205000000 -0600" channel="4">
+    <title lang="es">No Identificado</title>
   </programme>
 </tv>
