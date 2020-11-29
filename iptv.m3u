@@ -1,0 +1,5 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Entretenimiento" tvg-id="CL FOX" tvg-name="CL FOX" tvg-logo="http://logos.iptv.wtf/entretenimiento/fox.png" ,CL FOX
+http://live.iptv.wtf:80/live/wwnqcsbs/r17afTHq65/89.ts
+#EXTINF:-1 group-title="Entretenimiento" tvg-id="MX FOX" tvg-name="MX FOX" tvg-logo="http://logos.iptv.wtf/entretenimiento/fox.png" ,MX FOX
+http://live.iptv.wtf:80/live/wwnqcsbs/r17afTHq65/5980.ts

@@ -1,0 +1,1049 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CL CARTOON NETWORK">
+    <display-name lang="es">Cartoon Network ar</display-name>
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="MX CARTOON NETWORK">
+    <display-name lang="es">Cartoon Network mx</display-name>
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <programme start="20201129000000 -0300" stop="20201129002500 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Dragon Ball Super</title>
+  </programme>
+  <programme start="20201129002500 -0300" stop="20201129005000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Mob Psycho 100</title>
+  </programme>
+  <programme start="20201129005000 -0300" stop="20201129010000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Un show más</title>
+  </programme>
+  <programme start="20201129010000 -0300" stop="20201129011500 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Steven Universe: futuro</title>
+  </programme>
+  <programme start="20201129011500 -0300" stop="20201129013000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Steven Universe: futuro</title>
+  </programme>
+  <programme start="20201129013000 -0300" stop="20201129014500 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Steven Universe: futuro</title>
+  </programme>
+  <programme start="20201129014500 -0300" stop="20201129020000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Steven Universe: futuro</title>
+  </programme>
+  <programme start="20201129020000 -0300" stop="20201129021000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129021000 -0300" stop="20201129022000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129022000 -0300" stop="20201129023000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129023000 -0300" stop="20201129024000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129024000 -0300" stop="20201129025000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129025000 -0300" stop="20201129030000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129030000 -0300" stop="20201129032000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Dragon Ball Super</title>
+  </programme>
+  <programme start="20201129032000 -0300" stop="20201129034000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Dragon Ball Super</title>
+  </programme>
+  <programme start="20201129034000 -0300" stop="20201129040000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Dragon Ball Super</title>
+  </programme>
+  <programme start="20201129040000 -0300" stop="20201129041000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20201129041000 -0300" stop="20201129042000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20201129042000 -0300" stop="20201129043000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20201129043000 -0300" stop="20201129044000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20201129044000 -0300" stop="20201129045000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20201129045000 -0300" stop="20201129050000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20201129050000 -0300" stop="20201129051500 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Ed, Edd y Eddy</title>
+  </programme>
+  <programme start="20201129051500 -0300" stop="20201129053000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Hi Hi Puffy AmiYumi</title>
+  </programme>
+  <programme start="20201129053000 -0300" stop="20201129054500 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
+  </programme>
+  <programme start="20201129054500 -0300" stop="20201129060000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El show del malo y siniestro</title>
+  </programme>
+  <programme start="20201129060000 -0300" stop="20201129070000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Tom y Jerry en: El Cascanueces</title>
+  </programme>
+  <programme start="20201129070000 -0300" stop="20201129073000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El show de Tom y Jerry</title>
+  </programme>
+  <programme start="20201129073000 -0300" stop="20201129074000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129074000 -0300" stop="20201129075000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129075000 -0300" stop="20201129080000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129080000 -0300" stop="20201129081000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129081000 -0300" stop="20201129082000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129082000 -0300" stop="20201129083000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129083000 -0300" stop="20201129084000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129084000 -0300" stop="20201129085000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129085000 -0300" stop="20201129090000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129090000 -0300" stop="20201129093000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Transformers: Cyberverse</title>
+  </programme>
+  <programme start="20201129093000 -0300" stop="20201129100000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Power Rangers: Beast Morphers</title>
+  </programme>
+  <programme start="20201129100000 -0300" stop="20201129101000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129101000 -0300" stop="20201129102000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129102000 -0300" stop="20201129103000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129103000 -0300" stop="20201129104000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129104000 -0300" stop="20201129105000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129105000 -0300" stop="20201129110000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129110000 -0300" stop="20201129111000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129111000 -0300" stop="20201129112000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129112000 -0300" stop="20201129113000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129113000 -0300" stop="20201129130000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201129130000 -0300" stop="20201129141500 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos: la película</title>
+  </programme>
+  <programme start="20201129141500 -0300" stop="20201129142400 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201129142400 -0300" stop="20201129143300 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201129143300 -0300" stop="20201129144200 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201129144200 -0300" stop="20201129145100 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201129145100 -0300" stop="20201129150000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201129150000 -0300" stop="20201129160000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">¡Los jóvenes titanes en acción! vs. Los jóvenes ti</title>
+  </programme>
+  <programme start="20201129160000 -0300" stop="20201129161200 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201129161200 -0300" stop="20201129162400 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201129162400 -0300" stop="20201129163600 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201129163600 -0300" stop="20201129164800 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201129164800 -0300" stop="20201129170000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201129170000 -0300" stop="20201129173000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Toontubers</title>
+  </programme>
+  <programme start="20201129173000 -0300" stop="20201129174000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129174000 -0300" stop="20201129175000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129175000 -0300" stop="20201129180000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129180000 -0300" stop="20201129181000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129181000 -0300" stop="20201129182000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129182000 -0300" stop="20201129183000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129183000 -0300" stop="20201129184000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20201129184000 -0300" stop="20201129185000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20201129185000 -0300" stop="20201129190000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20201129190000 -0300" stop="20201129191000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129191000 -0300" stop="20201129192000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129192000 -0300" stop="20201129193000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129193000 -0300" stop="20201129194000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129194000 -0300" stop="20201129195000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129195000 -0300" stop="20201129200000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129200000 -0300" stop="20201129202000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20201129202000 -0300" stop="20201129204000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20201129204000 -0300" stop="20201129210000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20201129210000 -0300" stop="20201129211000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201129211000 -0300" stop="20201129212000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201129212000 -0300" stop="20201129213000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201129213000 -0300" stop="20201129214000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201129214000 -0300" stop="20201129215000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201129215000 -0300" stop="20201129220000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201129220000 -0300" stop="20201129221200 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201129221200 -0300" stop="20201129222400 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201129222400 -0300" stop="20201129223600 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201129223600 -0300" stop="20201129224800 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201129224800 -0300" stop="20201129230000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201129230000 -0300" stop="20201129231000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129231000 -0300" stop="20201129232000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129232000 -0300" stop="20201129233000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129233000 -0300" stop="20201129234000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129234000 -0300" stop="20201129235000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129235000 -0300" stop="20201130000000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201130000000 -0300" stop="20201130010000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Mes de los Jóvenes Titanes en Acción</title>
+  </programme>
+  <programme start="20201130010000 -0300" stop="20201130011000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130011000 -0300" stop="20201130012000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130012000 -0300" stop="20201130013000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130013000 -0300" stop="20201130014000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130014000 -0300" stop="20201130015000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130015000 -0300" stop="20201130020000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130020000 -0300" stop="20201130021000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201130021000 -0300" stop="20201130022000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201130022000 -0300" stop="20201130023000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201130023000 -0300" stop="20201130024000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201130024000 -0300" stop="20201130025000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201130025000 -0300" stop="20201130030000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201130030000 -0300" stop="20201130031000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20201130031000 -0300" stop="20201130032000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20201130032000 -0300" stop="20201130033000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20201130033000 -0300" stop="20201130034000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20201130034000 -0300" stop="20201130035000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20201130035000 -0300" stop="20201130040000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20201130040000 -0300" stop="20201130041000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Campamento de verano</title>
+  </programme>
+  <programme start="20201130041000 -0300" stop="20201130042000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Campamento de verano</title>
+  </programme>
+  <programme start="20201130042000 -0300" stop="20201130043000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Campamento de verano</title>
+  </programme>
+  <programme start="20201130043000 -0300" stop="20201130044000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Campamento de verano</title>
+  </programme>
+  <programme start="20201130044000 -0300" stop="20201130045000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Campamento de verano</title>
+  </programme>
+  <programme start="20201130045000 -0300" stop="20201130050000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Campamento de verano</title>
+  </programme>
+  <programme start="20201130050000 -0300" stop="20201130051500 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Las maravillosas desventuras de Flapjack</title>
+  </programme>
+  <programme start="20201130051500 -0300" stop="20201130053000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Coraje, el perro cobarde</title>
+  </programme>
+  <programme start="20201130053000 -0300" stop="20201130054500 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Coraje, el perro cobarde</title>
+  </programme>
+  <programme start="20201130054500 -0300" stop="20201130060000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El campamento de Lazlo</title>
+  </programme>
+  <programme start="20201130060000 -0300" stop="20201130071500 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Scooby Doo y la maldición de Cleopatra</title>
+  </programme>
+  <programme start="20201130071500 -0300" stop="20201130073000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El show de Tom y Jerry</title>
+  </programme>
+  <programme start="20201130073000 -0300" stop="20201130074000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201130074000 -0300" stop="20201130075000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201130075000 -0300" stop="20201130080000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201130080000 -0300" stop="20201130081000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201130081000 -0300" stop="20201130082000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201130082000 -0300" stop="20201130083000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201130083000 -0300" stop="20201130100000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Monster High: Fantasmagóricas</title>
+  </programme>
+  <programme start="20201130100000 -0300" stop="20201130101000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130101000 -0300" stop="20201130102000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130102000 -0300" stop="20201130103000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130103000 -0300" stop="20201130120000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130120000 -0300" stop="20201130135500 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Mes de los Jóvenes Titanes en Acción</title>
+  </programme>
+  <programme start="20201130140000 -0300" stop="20201130154500 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Pitufos 2</title>
+  </programme>
+  <programme start="20201130154500 -0300" stop="20201130160000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130160000 -0300" stop="20201130161000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130161000 -0300" stop="20201130162000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130162000 -0300" stop="20201130163000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130163000 -0300" stop="20201130164000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130164000 -0300" stop="20201130165000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130165000 -0300" stop="20201130170000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130170000 -0300" stop="20201130171200 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20201130171200 -0300" stop="20201130172400 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20201130172400 -0300" stop="20201130173600 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20201130173600 -0300" stop="20201130174800 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20201130174800 -0300" stop="20201130180000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20201130180000 -0300" stop="20201130181000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130181000 -0300" stop="20201130182000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130182000 -0300" stop="20201130183000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130183000 -0300" stop="20201130184000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130184000 -0300" stop="20201130185000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130185000 -0300" stop="20201130190000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130190000 -0300" stop="20201130191200 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201130191200 -0300" stop="20201130192400 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201130192400 -0300" stop="20201130193600 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201130193600 -0300" stop="20201130194800 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201130194800 -0300" stop="20201130200000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201130200000 -0300" stop="20201130201000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130201000 -0300" stop="20201130202000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130202000 -0300" stop="20201130203000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130203000 -0300" stop="20201130204000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130204000 -0300" stop="20201130205000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130205000 -0300" stop="20201130210000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130210000 -0300" stop="20201130224500 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Los Pitufos 2</title>
+  </programme>
+  <programme start="20201130224500 -0300" stop="20201130230000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130230000 -0300" stop="20201201000000 -0300" channel="CL CARTOON NETWORK">
+    <title lang="es">Mes de los Jóvenes Titanes en Acción</title>
+  </programme>
+  <programme start="20201129000000 -0300" stop="20201129002500 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Dragon Ball Super</title>
+  </programme>
+  <programme start="20201129002500 -0300" stop="20201129005000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Mob Psycho 100</title>
+  </programme>
+  <programme start="20201129005000 -0300" stop="20201129010000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Un show más</title>
+  </programme>
+  <programme start="20201129010000 -0300" stop="20201129011500 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Steven Universe: futuro</title>
+  </programme>
+  <programme start="20201129011500 -0300" stop="20201129013000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Steven Universe: futuro</title>
+  </programme>
+  <programme start="20201129013000 -0300" stop="20201129014500 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Steven Universe: futuro</title>
+  </programme>
+  <programme start="20201129014500 -0300" stop="20201129020000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Steven Universe: futuro</title>
+  </programme>
+  <programme start="20201129020000 -0300" stop="20201129021000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129021000 -0300" stop="20201129022000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129022000 -0300" stop="20201129023000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129023000 -0300" stop="20201129024000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129024000 -0300" stop="20201129025000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129025000 -0300" stop="20201129030000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129030000 -0300" stop="20201129032000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Dragon Ball Super</title>
+  </programme>
+  <programme start="20201129032000 -0300" stop="20201129034000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Dragon Ball Super</title>
+  </programme>
+  <programme start="20201129034000 -0300" stop="20201129040000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Dragon Ball Super</title>
+  </programme>
+  <programme start="20201129040000 -0300" stop="20201129041000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20201129041000 -0300" stop="20201129042000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20201129042000 -0300" stop="20201129043000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20201129043000 -0300" stop="20201129044000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20201129044000 -0300" stop="20201129045000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20201129045000 -0300" stop="20201129050000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20201129050000 -0300" stop="20201129051500 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Ed, Edd y Eddy</title>
+  </programme>
+  <programme start="20201129051500 -0300" stop="20201129053000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Hi Hi Puffy AmiYumi</title>
+  </programme>
+  <programme start="20201129053000 -0300" stop="20201129054500 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
+  </programme>
+  <programme start="20201129054500 -0300" stop="20201129060000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El show del malo y siniestro</title>
+  </programme>
+  <programme start="20201129060000 -0300" stop="20201129070000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Tom y Jerry en: El Cascanueces</title>
+  </programme>
+  <programme start="20201129070000 -0300" stop="20201129073000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El show de Tom y Jerry</title>
+  </programme>
+  <programme start="20201129073000 -0300" stop="20201129074000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129074000 -0300" stop="20201129075000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129075000 -0300" stop="20201129080000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129080000 -0300" stop="20201129081000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129081000 -0300" stop="20201129082000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129082000 -0300" stop="20201129083000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129083000 -0300" stop="20201129084000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129084000 -0300" stop="20201129085000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129085000 -0300" stop="20201129090000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129090000 -0300" stop="20201129093000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Transformers: Cyberverse</title>
+  </programme>
+  <programme start="20201129093000 -0300" stop="20201129100000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Power Rangers: Beast Morphers</title>
+  </programme>
+  <programme start="20201129100000 -0300" stop="20201129101000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129101000 -0300" stop="20201129102000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129102000 -0300" stop="20201129103000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129103000 -0300" stop="20201129104000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129104000 -0300" stop="20201129105000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129105000 -0300" stop="20201129110000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129110000 -0300" stop="20201129111000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129111000 -0300" stop="20201129112000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129112000 -0300" stop="20201129113000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129113000 -0300" stop="20201129130000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201129130000 -0300" stop="20201129141500 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos: la película</title>
+  </programme>
+  <programme start="20201129141500 -0300" stop="20201129142400 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201129142400 -0300" stop="20201129143300 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201129143300 -0300" stop="20201129144200 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201129144200 -0300" stop="20201129145100 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201129145100 -0300" stop="20201129150000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201129150000 -0300" stop="20201129160000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">¡Los jóvenes titanes en acción! vs. Los jóvenes ti</title>
+  </programme>
+  <programme start="20201129160000 -0300" stop="20201129161200 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201129161200 -0300" stop="20201129162400 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201129162400 -0300" stop="20201129163600 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201129163600 -0300" stop="20201129164800 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201129164800 -0300" stop="20201129170000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201129170000 -0300" stop="20201129173000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Toontubers</title>
+  </programme>
+  <programme start="20201129173000 -0300" stop="20201129174000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129174000 -0300" stop="20201129175000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129175000 -0300" stop="20201129180000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129180000 -0300" stop="20201129181000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129181000 -0300" stop="20201129182000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129182000 -0300" stop="20201129183000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201129183000 -0300" stop="20201129184000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20201129184000 -0300" stop="20201129185000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20201129185000 -0300" stop="20201129190000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20201129190000 -0300" stop="20201129191000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129191000 -0300" stop="20201129192000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129192000 -0300" stop="20201129193000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129193000 -0300" stop="20201129194000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129194000 -0300" stop="20201129195000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129195000 -0300" stop="20201129200000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129200000 -0300" stop="20201129202000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20201129202000 -0300" stop="20201129204000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20201129204000 -0300" stop="20201129210000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20201129210000 -0300" stop="20201129211000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201129211000 -0300" stop="20201129212000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201129212000 -0300" stop="20201129213000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201129213000 -0300" stop="20201129214000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201129214000 -0300" stop="20201129215000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201129215000 -0300" stop="20201129220000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201129220000 -0300" stop="20201129221200 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201129221200 -0300" stop="20201129222400 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201129222400 -0300" stop="20201129223600 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201129223600 -0300" stop="20201129224800 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201129224800 -0300" stop="20201129230000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201129230000 -0300" stop="20201129231000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129231000 -0300" stop="20201129232000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129232000 -0300" stop="20201129233000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129233000 -0300" stop="20201129234000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129234000 -0300" stop="20201129235000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201129235000 -0300" stop="20201130000000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201130000000 -0300" stop="20201130010000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Mes de los Jóvenes Titanes en Acción</title>
+  </programme>
+  <programme start="20201130010000 -0300" stop="20201130011000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130011000 -0300" stop="20201130012000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130012000 -0300" stop="20201130013000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130013000 -0300" stop="20201130014000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130014000 -0300" stop="20201130015000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130015000 -0300" stop="20201130020000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130020000 -0300" stop="20201130021000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201130021000 -0300" stop="20201130022000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201130022000 -0300" stop="20201130023000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201130023000 -0300" stop="20201130024000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201130024000 -0300" stop="20201130025000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201130025000 -0300" stop="20201130030000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201130030000 -0300" stop="20201130031000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20201130031000 -0300" stop="20201130032000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20201130032000 -0300" stop="20201130033000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20201130033000 -0300" stop="20201130034000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20201130034000 -0300" stop="20201130035000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20201130035000 -0300" stop="20201130040000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20201130040000 -0300" stop="20201130041000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Campamento de verano</title>
+  </programme>
+  <programme start="20201130041000 -0300" stop="20201130042000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Campamento de verano</title>
+  </programme>
+  <programme start="20201130042000 -0300" stop="20201130043000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Campamento de verano</title>
+  </programme>
+  <programme start="20201130043000 -0300" stop="20201130044000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Campamento de verano</title>
+  </programme>
+  <programme start="20201130044000 -0300" stop="20201130045000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Campamento de verano</title>
+  </programme>
+  <programme start="20201130045000 -0300" stop="20201130050000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Campamento de verano</title>
+  </programme>
+  <programme start="20201130050000 -0300" stop="20201130051500 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Las maravillosas desventuras de Flapjack</title>
+  </programme>
+  <programme start="20201130051500 -0300" stop="20201130053000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Coraje, el perro cobarde</title>
+  </programme>
+  <programme start="20201130053000 -0300" stop="20201130054500 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Coraje, el perro cobarde</title>
+  </programme>
+  <programme start="20201130054500 -0300" stop="20201130060000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El campamento de Lazlo</title>
+  </programme>
+  <programme start="20201130060000 -0300" stop="20201130071500 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Scooby Doo y la maldición de Cleopatra</title>
+  </programme>
+  <programme start="20201130071500 -0300" stop="20201130073000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El show de Tom y Jerry</title>
+  </programme>
+  <programme start="20201130073000 -0300" stop="20201130074000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201130074000 -0300" stop="20201130075000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201130075000 -0300" stop="20201130080000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201130080000 -0300" stop="20201130081000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201130081000 -0300" stop="20201130082000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201130082000 -0300" stop="20201130083000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20201130083000 -0300" stop="20201130100000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Monster High: Fantasmagóricas</title>
+  </programme>
+  <programme start="20201130100000 -0300" stop="20201130101000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130101000 -0300" stop="20201130102000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130102000 -0300" stop="20201130103000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130103000 -0300" stop="20201130120000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130120000 -0300" stop="20201130135500 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Mes de los Jóvenes Titanes en Acción</title>
+  </programme>
+  <programme start="20201130140000 -0300" stop="20201130154500 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Pitufos 2</title>
+  </programme>
+  <programme start="20201130154500 -0300" stop="20201130160000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130160000 -0300" stop="20201130161000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130161000 -0300" stop="20201130162000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130162000 -0300" stop="20201130163000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130163000 -0300" stop="20201130164000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130164000 -0300" stop="20201130165000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130165000 -0300" stop="20201130170000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130170000 -0300" stop="20201130171200 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20201130171200 -0300" stop="20201130172400 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20201130172400 -0300" stop="20201130173600 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20201130173600 -0300" stop="20201130174800 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20201130174800 -0300" stop="20201130180000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20201130180000 -0300" stop="20201130181000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130181000 -0300" stop="20201130182000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130182000 -0300" stop="20201130183000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130183000 -0300" stop="20201130184000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130184000 -0300" stop="20201130185000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130185000 -0300" stop="20201130190000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201130190000 -0300" stop="20201130191200 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201130191200 -0300" stop="20201130192400 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201130192400 -0300" stop="20201130193600 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201130193600 -0300" stop="20201130194800 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201130194800 -0300" stop="20201130200000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20201130200000 -0300" stop="20201130201000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130201000 -0300" stop="20201130202000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130202000 -0300" stop="20201130203000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130203000 -0300" stop="20201130204000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130204000 -0300" stop="20201130205000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130205000 -0300" stop="20201130210000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130210000 -0300" stop="20201130224500 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Los Pitufos 2</title>
+  </programme>
+  <programme start="20201130224500 -0300" stop="20201130230000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20201130230000 -0300" stop="20201201000000 -0300" channel="MX CARTOON NETWORK">
+    <title lang="es">Mes de los Jóvenes Titanes en Acción</title>
+  </programme>
+</tv>
